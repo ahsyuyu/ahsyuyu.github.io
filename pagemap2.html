@@ -1,0 +1,157 @@
+<html>
+<script>
+
+var Lj=["1b1","17b8","27b4","37b3","47a2","67a8","79a1","90b6","102b5","115a2",
+		"128a3","140b6","155b2","168a2","181b8","197a7","212a5","224b1","238a8",
+		"251a8","264a5","278a1","290a1","302b2"];
+var Ls=["1b1","20b7","33b6","47a3","63a1","88b2","105a6","121b6","138a7",
+		"155b3","173a7","192a6","213b5","231a4","248b2","269b3","289b3","306b1",
+		"325a2","343a2","361a3"];
+
+var volpage2realpage=function(input){
+	//var volpage=document.getElementById("volpage").value;
+	var side=input.substr(input.length-2,1);
+
+	if(side.indexOf("a")>-1){
+		var num=input.substr(0,input.length-2);
+		var realpage=num*2-1;
+		//document.getElementById("line").value=line;
+	}
+	if(side.indexOf("b")>-1){
+		var num=input.substr(0,input.length-2);
+		var realpage=num*2;
+		//document.getElementById("line").value=line;
+	}
+	return realpage;
+}
+
+var volpage2line=function(){
+	var volpage=document.getElementById("volpage").value;
+	var line=volpage2line_process(volpage);
+	document.getElementById("line").value=line;
+
+}
+
+var volpage2line_process=function(input){ 
+	//var volpage=document.getElementById("volpage").value;
+	var online=input.substr(input.length-1);
+	online=parseInt(online);
+	var line=(volpage2realpage(input)-1)*8+online;
+	//document.getElementById("line").value=line;
+	line=parseInt(line);
+	return line;
+
+}
+
+var realpage2volpage=function(input){
+	var side=input%2;
+	
+	if(side==1){
+		var volpage=input/2-0.5+1+"a";
+		//document.getElementById("volpage").value=line;
+	}
+	if(side==0){
+		var volpage=input/2+"b";
+		//document.getElementById("volpage").value=line;
+	}
+	return volpage;
+
+}
+
+var line2volpage=function(){
+	var line=document.getElementById("line").value;
+	var online=line%8;
+	var volpage=(line-online)/8+1;
+	var volpage=realpage2volpage(volpage)+online;
+
+	if(volpage.indexOf("a0")>-1){
+		volpage=volpage.replace(/a0/g, "" );
+		volpage=volpage-1;
+		volpage=volpage+"b8"
+	}
+	if(volpage.indexOf("b0")>-1){
+		volpage=volpage.replace(/b0/g, "" );
+		volpage=volpage+"a8"
+	}
+
+	document.getElementById("volpage").value=volpage;
+
+}
+
+var findrange=function(input,searchpage){
+	//var find=document.getElementById("find").value;
+	
+	for(var i in input){
+		i=parseInt(i);
+		var min=volpage2line_process(input[i]);
+		var max=volpage2line_process(input[i+1]);
+
+		if(searchpage>=min&&searchpage<=max){
+			//document.getElementById("range").innerHTML=(input[i]+" ~ "+input[i+1]);
+			return (input[i]+"~"+input[i+1])
+		}
+	}
+}
+
+var findrange_Lj=function(){
+	var find=document.getElementById("find_Lj").value;
+	document.getElementById("range_Lj").innerHTML=findrange(Lj,find);
+}
+
+var findrange_Ls=function(){
+	var find=document.getElementById("find_Ls").value;
+	document.getElementById("range_Ls").innerHTML=findrange(Ls,find);
+}
+
+var findcorres=function(input1,input2,line){
+	var location=line-input1[0];
+	var corrs=(location*(input2[input2.length-1]/input1[input1.length-1])+input2[0]).toFixed(0);
+	return corrs;
+
+}
+
+var findcorres_fromLj=function(){
+	var line=document.getElementById("find_Lj").value;
+	var corrs=findcorres(line_Lj,line_Ls,line);  //Lj的行數對照成Ls的行數
+	document.getElementById("findcorres_Lj").innerHTML=corrs;
+}
+
+var findcorres_fromLs=function(){
+	var line=document.getElementById("find_Ls").value;
+	var corrs=findcorres(line_Ls,line_Lj,line);
+	document.getElementById("findcorres_Ls").innerHTML=corrs;
+}
+
+var line_Lj=[];
+	for(var i in Lj){
+		line_Lj[i]=volpage2line_process(Lj[i]);
+	}
+var line_Ls=[];
+	for(var i in Ls){
+		line_Ls[i]=volpage2line_process(Ls[i]);
+	}
+console.log(line_Ls);
+console.log(line_Lj);
+
+
+
+</script>
+Volume Page: <input id="volpage" value= "1b1" ></input>
+<button onclick="volpage2line()">-></button>
+<button onclick="line2volpage()"><-</button>
+Line: <input id="line" value= "272" ></input><BR>
+<input id="find_Lj" value= "179" ></input>
+<button onclick="findrange_Lj()">find range: Lj</button>
+<span id="range_Lj"></span><br/>
+Find correspond line to Ls: 
+<button onclick="findcorres_fromLj()">find</button>
+<span id="findcorres_Lj"></span><br/>
+<input id="find_Ls" value= "179" ></input>
+<button onclick="findrange_Ls()">find range: Ls</button>
+<span id="range_Ls"></span><br/>
+Find correspond line to Lj: 
+<button onclick="findcorres_fromLs()">find</button>
+<span id="findcorres_Ls"></span><br/>
+<button onclick="test()">test</button>
+
+</html>
