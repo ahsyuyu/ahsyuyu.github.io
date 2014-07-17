@@ -4,8 +4,10 @@
 	image_Lj.src="Lijang image/001/"+idtoimagefilename(volpage_Lj)+".jpg";
 	document.getElementById("page_Lj").innerHTML=volpage_Lj;
 	
-	var volpage_Ls=findcorres_fromLj(volpage);
-	volpage_Ls=volpage_Ls.substr(0,volpage_Ls.length-1);
+	var volpage_Lj=findcorres_fromLj(volpage);
+	var volpage_Ls=volpage_Lj.substr(0,volpage_Lj.length-1);
+	var han="1.";
+	var volpage_Ls=han+volpage_Ls;
 	image_Ls.src="Lhasa image/001/"+idtoimagefilename(volpage_Ls)+".png";
 	document.getElementById("page_Ls").innerHTML=volpage_Ls;
 }

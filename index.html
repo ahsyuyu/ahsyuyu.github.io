@@ -12,17 +12,19 @@ var Ls=["1b1","20b7","33b6","47a3","63a1","88b2","105a6","121b6","138a7",
 var volpage2realpage=function(input){
 	//var volpage=document.getElementById("volpage").value;
 	var side=input.substr(input.length-2,1);
-
-	if(side.indexOf("a")>-1){
+	/*if(side.indexOf("a")>-1){
 		var num=input.substr(0,input.length-2);
 		var realpage=num*2-1;
-		//document.getElementById("line").value=line;
 	}
 	if(side.indexOf("b")>-1){
 		var num=input.substr(0,input.length-2);
 		var realpage=num*2;
-		//document.getElementById("line").value=line;
-	}
+	}*/
+
+	var num=input.substr(0,input.length-2);
+	var realpage=num*2-1;
+	if(side.indexOf("b")>-1) realpage++;
+	
 	return realpage;
 }
 
@@ -128,7 +130,7 @@ var find_corres=function(input1,input2,line,section){
 
 var findcorres_fromLj=function(input){
 	//var volpage=document.getElementById("find_Lj").value;
-	volpage=input.split(".");
+	var volpage=input.split(".");
 	volpage=volpage[1];
 	var line=volpage2line_process(volpage);
 	var range=findrange(Lj,line).split("~");
