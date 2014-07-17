@@ -126,9 +126,9 @@ var find_corres=function(input1,input2,line,section){
 
 }
 
-var findcorres_fromLj=function(){
-	var volpage=document.getElementById("find_Lj").value;
-	volpage=volpage.split(".");
+var findcorres_fromLj=function(input){
+	//var volpage=document.getElementById("find_Lj").value;
+	volpage=input.split(".");
 	volpage=volpage[1];
 	var line=volpage2line_process(volpage);
 	var range=findrange(Lj,line).split("~");
@@ -140,13 +140,12 @@ var findcorres_fromLj=function(){
 	var range_Lj=find_corres(line_Lj,line_Ls,line,section);
 	range=line2volpage_process(range_Lj);
 	document.getElementById("findcorres_Lj").innerHTML=range;
-
-	//return range;
+	return range;
 }
 
 var findcorres_fromLs=function(input){
 	//var volpage=document.getElementById("find_Ls").value;
-	volpage=input.split(".");
+	var volpage=input.split(".");
 	volpage=volpage[1];
 	var line=volpage2line_process(volpage);
 	var range=findrange(Ls,line).split("~");
