@@ -90,7 +90,7 @@ var line2volpage_process=function(input){
 var findrange=function(input,searchpage){
 	//var find=document.getElementById("find").value;
 	
-	for(var i in input){
+	for(var i=0; i<input.length-1; i++){
 		i=parseInt(i);
 		var min=volpage2line_process(input[i]);
 		var max=volpage2line_process(input[i+1]);
@@ -176,10 +176,10 @@ var line_Ls=[];
 
 </script>
 <P ALIGN=CENTER>
-Lj:<input id="find_Lj" value= "1.1a2" ></input>
+Lj:<input id="find_Lj" value= "1.2a2" ></input>
 <span id="range_Lj"></span>
 <button onclick="image_Lijang()">search image</button>
-Correspond line to Ls:   
+Correspond line to Ls: 
 <span id="findcorres_Lj"></span><br/>
 Ls:<input id="find_Ls" value= "1.2b2" ></input>
 <span id="range_Ls"></span>
