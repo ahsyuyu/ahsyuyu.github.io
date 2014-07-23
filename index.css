@@ -1,0 +1,8 @@
+#name {font-style: "lobster";
+	   font-size:200%;}
+
+.pj {font-style: "Heiti SC Light"}
+
+body {text-align: center;}
+
+li:hover{font-size:150%;text-decoration: underline; cursor: pointer}
