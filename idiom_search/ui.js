@@ -1,5 +1,5 @@
 var showidiom=function(idiom){
-	return '<li><span class="key">'+idiom.key+"</span>："+"注音："+idiom.zu+"，漢語拼音"+idiom.han+"<br><span class='def'>定義："+idiom.def+"</span><br></li>";
+	return '<li><span class="key">'+idiom.key+"</span>："+"注音："+idiom.zu+"，漢語拼音："+idiom.han+"<br><span class='def'>定義："+idiom.def+"</span><br></li>";
 }
 
 var dosearch=function(tofind){
