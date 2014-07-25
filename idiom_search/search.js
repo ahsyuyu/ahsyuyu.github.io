@@ -6,9 +6,9 @@ var search=function(tofind,field){
 	var searchword=new RegExp(tofind,"g");
 
 	for(var i=0;i<idioms.length;i++){
-		var find=idioms[i].field.match(searchword);
+		var find=idioms[i][field].match(searchword);
 		if(find){
-			idioms[i].field=idioms[i].field.replace(searchword,changecolor);
+			idioms[i][field]=idioms[i][field].replace(searchword,changecolor);
 			out.push(idioms[i]);
 			//out.replace(searchword_re, changecolor(searchword) );
 		}
