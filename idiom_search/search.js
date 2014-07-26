@@ -7,10 +7,12 @@ var search=function(tofind,field){
 
 	for(var i=0;i<idioms.length;i++){
 		var find=idioms[i][field].match(searchword);
+		var res={key: idioms[i].key, def:idioms[i].def};
 		if(find){
-			idioms[i][field]=idioms[i][field].replace(searchword,changecolor);
-			out.push(idioms[i]);
-			//out.replace(searchword_re, changecolor(searchword) );
+			res[field]=idioms[i][field].replace(searchword,changecolor);
+			//idioms[i][field]=idioms[i][field].replace(searchword,changecolor);
+			out.push(res);
+			//out.push(idioms[i]);
 		}
 	}
 	return out;
