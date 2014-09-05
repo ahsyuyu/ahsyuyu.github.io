@@ -23,5 +23,5 @@ var changecolor=function(input){
 	/*document.getElementById("change").innerHTML=input;
 	var color=document.getElementById("change").innerHTML;
 	return color;*/
-	return '<span class="tofind">'+input+"</span>"
+	return '<span id="tofind">'+input+"</span>"
 }
