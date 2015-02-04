@@ -34,6 +34,10 @@ text {
 		    .attr("height", diameter)
 		    .attr("class", "bubble");
 
+		var tooltip = d3.select("body").append("div")   
+	        .attr("class", "tooltip")               
+	        .style("opacity", 0);
+
 		d3.json("cataquotebyfreq8.json", function(error, root) {
 		  if (error) return console.warn(error);
 		  var node = svg.selectAll(".node")
@@ -43,23 +47,36 @@ text {
 		      .attr("class", "node")
 		      .attr("transform", function(d) { 
 		      	if(debug) debugger;
-		      	return "translate(" + d.x + "," + d.y + ")"; });
+		      	return "translate(" + d.x + "," + d.y + ")"; })
+		      .on( "click",function(d,i){console.log(this);} )
 
 		  node.append("title")
 		      .text(function(d) { 
-		      	if(debug) debugger;
 		      	return d.className + ": " + format(d.value); });
 
 		  node.append("circle")
 		      .attr("r", function(d) { return d.r; })
-		      .style("fill", function(d) { 
-		      	if(debug) debugger;
-		      	return color(d.packageName); });
+		      .style("fill", function(d) { return color(d.packageName); })
+		      .on("mouseover",function(d,i){
+		      	  tooltip.transition().duration(200).style("opacity", .9); 
+		      	  tooltip.html(d.className);
+		      	  d3.select(this)
+          		    .style("fill", "orange");
+          		  if(d.className.length<6 && d.r>50) {
+          		  	d3.select(this.nextSibling).style("font-size","26px");
+          		  } else d3.select(this.nextSibling).style("font-size","18px");
+		      })
+		      .on("mouseout", function(d) {
+				  d3.select(this)
+				    .style("fill", function(d) { return color(d.packageName); })
+          		  d3.select(this.nextSibling)
+          		    .style("font-size","12px");				  
+			  });
 
 		  node.append("text")
 		      .attr("dy", ".3em")
 		      .style("text-anchor", "middle")
-		      .text(function(d) { return d.className.substring(0, d.r / 3); });
+		      .text(function(d) { return d.className.substring(0, d.r / 3); });	     
 		});
 
 		// Returns a flattened hierarchy containing all leaf nodes under the root.
