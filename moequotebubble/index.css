@@ -1,0 +1,19 @@
+@font-face{
+	font-family: Wyue;
+	src: url(font/Wyue-GutiFangsong-NC_deliverable.otf);
+}
+body{text-align: center;}
+
+.center{text-align: center;}
+
+#title {
+	font-family: Wyue;
+	font-size:72px;
+	letter-spacing: 14px;　 
+}
+#subtitle{
+	font-family: Wyue;
+	font-size:18px;
+	letter-spacing: 26px;　  
+}
+
