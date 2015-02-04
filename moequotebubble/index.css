@@ -2,9 +2,13 @@
 	font-family: Wyue;
 	src: url(font/Wyue-GutiFangsong-NC_deliverable.otf);
 }
-body{text-align: center;}
+body{text-align: center;
+	margin-top: 16px;
+	background-color: black;
+	color:white;}
 
-.center{text-align: center;}
+.center{text-align: center;
+}
 
 #title {
 	font-family: Wyue;

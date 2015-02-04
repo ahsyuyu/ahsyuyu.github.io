@@ -21,7 +21,7 @@ text {
 		var debug = false;
 		var diameter = 800,
 		    format = d3.format(",d"), //,d ignore any non-integer values.
-		    color = d3.scale.category20c();//不同的顏色群
+		    color = d3.scale.category20();//不同的顏色群
 
 		var bubble = d3.layout.pack()
 		    .sort(null)
@@ -33,7 +33,7 @@ text {
 		    .attr("height", diameter)
 		    .attr("class", "bubble");
 
-		d3.json("cataquotebyfreq.json", function(error, root) {
+		d3.json("cataquotebyfreq8.json", function(error, root) {
 		  if (error) return console.warn(error);
 		  var node = svg.selectAll(".node")
 		      .data(bubble.nodes(classes(root))
