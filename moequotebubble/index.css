@@ -21,8 +21,7 @@ body{text-align: center;
 	letter-spacing: 26px;　  
 }
 
-.quote{
-	font-family: Wyue;
-	font-size:18px;
+text {
+  font: 10px sans-serif;
 }
 

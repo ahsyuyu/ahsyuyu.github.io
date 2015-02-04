@@ -1,13 +1,6 @@
 ﻿<!doctype html>
 <html>
 <meta charset="utf-8">
-<style>
-
-text {
-  font: 10px sans-serif;
-}
-
-</style>
 
 <body>
 	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
@@ -15,8 +8,10 @@ text {
 	<link href='index.css' rel='stylesheet' type='text/css'>
 	<div class="center">
 		<div id="title">萌典經典泡泡</div>
-		<div></div>
+		<br>
 		<div id="subtitle">第一次當文學青年就上手</div>
+		<div id="quotes"></div>
+		<div id="eachquote"></div>
 	</div>
 	<script>
 		var debug = false;
@@ -29,7 +24,7 @@ text {
 		    .size([diameter, diameter])//泡泡圖的範圍
 		    .padding(1.5); //每個泡泡的距離
 
-		var svg = d3.select("body").append("svg")
+		var svg = d3.select("#quotes").append("svg")
 		    .attr("width", diameter)
 		    .attr("height", diameter)
 		    .attr("class", "bubble");
@@ -78,6 +73,71 @@ text {
 		      .style("text-anchor", "middle")
 		      .text(function(d) { return d.className.substring(0, d.r / 3); });	     
 		});
+
+
+
+
+
+		var bubble_eachQuote = d3.layout.pack()
+		    .sort(null)
+		    .size([diameter, diameter])//泡泡圖的範圍
+		    .padding(1.5); //每個泡泡的距離
+
+		var svg_eachQuote = d3.select("#eachquote").append("svg")
+		    .attr("width", diameter)
+		    .attr("height", diameter)
+		    .attr("class", "bubble_eachQuote");
+
+		// var tooltip = d3.select("body").append("div")   
+	 //        .attr("class", "tooltip")               
+	 //        .style("opacity", 0);
+
+		d3.json("dreamOfRedChamber_d3.json", function(error, root) {
+		  if (error) return console.warn(error);
+		  var node = svg_eachQuote.selectAll(".node")
+		      .data(bubble_eachQuote.nodes(classes(root))
+		      .filter(function(d) { return !d.children; }))
+		    .enter().append("g")
+		      .attr("class", "node")
+		      .attr("transform", function(d) { 
+		      	if(debug) debugger;
+		      	return "translate(" + d.x + "," + d.y + ")"; })
+		      .on( "click",function(d,i){console.log(this);} )
+
+		  node.append("title")
+		      .text(function(d) { 
+		      	return d.className + ": " + format(d.value); });
+
+		  node.append("circle")
+		      .attr("r", function(d) { return d.r; })
+		      .style("fill", function(d) { return color(d.packageName); })
+		      .on("mouseover",function(d,i){
+		      	  // tooltip.transition().duration(200).style("opacity", .9); 
+		      	  // tooltip.html(d.className);
+		      	  d3.select(this)
+          		    .style("fill", "orange");
+          		  if(d.className.length<6 && d.r>50) {
+          		  	d3.select(this.nextSibling).style("font-size","26px");
+          		  } else d3.select(this.nextSibling).style("font-size","18px");
+		      })
+		      .on("mouseout", function(d) {
+				  d3.select(this)
+				    .style("fill", function(d) { return color(d.packageName); })
+          		  d3.select(this.nextSibling)
+          		    .style("font-size","12px");				  
+			  });
+
+		  node.append("text")
+		      .attr("dy", ".3em")
+		      .style("text-anchor", "middle")
+		      .text(function(d) { return d.className.substring(0, d.r / 3); });	     
+		});
+
+
+
+
+
+
 
 		// Returns a flattened hierarchy containing all leaf nodes under the root.
 		function classes(root) {
