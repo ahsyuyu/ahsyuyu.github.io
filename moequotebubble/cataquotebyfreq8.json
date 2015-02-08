@@ -5,19 +5,19 @@
    "name": "4k-",
    "children": [
     {
-     "name": "文選",
+     "name": "文選．anthology",
      "size": 8440
     },
     {
-     "name": "紅樓夢",
+     "name": "紅樓夢．dreamOfRedChamber",
      "size": 7812
     },
     {
-     "name": "三國演義",
+     "name": "三國演義．romanceOfTheThreeKingdoms",
      "size": 4923
     },
     {
-     "name": "儒林外史",
+     "name": "儒林外史．theScolors",
      "size": 4589
     }
    ]
