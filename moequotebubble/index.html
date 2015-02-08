@@ -100,7 +100,7 @@
 			    .attr("class", "bubble_eachQuote");
 
 
-			d3.json(d_fromParent.className.split("．")[1]+"_d3.json", function(error, root) {
+			d3.json("dataset/"+d_fromParent.className.split("．")[1]+"_d3.json", function(error, root) {
 			  console.log(root.name);
 			  if (error) return console.warn(error);
 			  var nodeQ = svg_eachQuote.selectAll(".eachQuote")

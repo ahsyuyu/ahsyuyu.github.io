@@ -1,0 +1,4673 @@
+{
+ "name": "漢書",
+ "children": [
+  {
+   "name": "20-",
+   "children": [
+    {
+     "name": "以",
+     "size": 31
+    },
+    {
+     "name": "與",
+     "size": 30
+    },
+    {
+     "name": "與",
+     "size": 30
+    },
+    {
+     "name": "引",
+     "size": 23
+    },
+    {
+     "name": "約",
+     "size": 22
+    },
+    {
+     "name": "表",
+     "size": 22
+    },
+    {
+     "name": "表",
+     "size": 22
+    },
+    {
+     "name": "於",
+     "size": 21
+    },
+    {
+     "name": "微",
+     "size": 21
+    },
+    {
+     "name": "微",
+     "size": 21
+    },
+    {
+     "name": "微",
+     "size": 21
+    },
+    {
+     "name": "遺",
+     "size": 20
+    },
+    {
+     "name": "候",
+     "size": 20
+    },
+    {
+     "name": "候",
+     "size": 20
+    },
+    {
+     "name": "候",
+     "size": 20
+    },
+    {
+     "name": "候",
+     "size": 20
+    },
+    {
+     "name": "許",
+     "size": 20
+    }
+   ]
+  },
+  {
+   "name": "15-20",
+   "children": [
+    {
+     "name": "須",
+     "size": 19
+    },
+    {
+     "name": "須",
+     "size": 19
+    },
+    {
+     "name": "夷",
+     "size": 19
+    },
+    {
+     "name": "夷",
+     "size": 19
+    },
+    {
+     "name": "夷",
+     "size": 19
+    },
+    {
+     "name": "遂",
+     "size": 19
+    },
+    {
+     "name": "殊",
+     "size": 18
+    },
+    {
+     "name": "殊",
+     "size": 18
+    },
+    {
+     "name": "殊",
+     "size": 18
+    },
+    {
+     "name": "意",
+     "size": 18
+    },
+    {
+     "name": "意",
+     "size": 18
+    },
+    {
+     "name": "惡",
+     "size": 18
+    },
+    {
+     "name": "已",
+     "size": 18
+    },
+    {
+     "name": "已",
+     "size": 18
+    },
+    {
+     "name": "抑",
+     "size": 17
+    },
+    {
+     "name": "抑",
+     "size": 17
+    },
+    {
+     "name": "便",
+     "size": 17
+    },
+    {
+     "name": "逸",
+     "size": 16
+    },
+    {
+     "name": "逸",
+     "size": 16
+    },
+    {
+     "name": "緣",
+     "size": 16
+    },
+    {
+     "name": "緣",
+     "size": 16
+    },
+    {
+     "name": "封",
+     "size": 16
+    },
+    {
+     "name": "襲",
+     "size": 16
+    },
+    {
+     "name": "下",
+     "size": 15
+    },
+    {
+     "name": "赫",
+     "size": 15
+    },
+    {
+     "name": "赫",
+     "size": 15
+    },
+    {
+     "name": "主",
+     "size": 15
+    },
+    {
+     "name": "臨",
+     "size": 15
+    },
+    {
+     "name": "華",
+     "size": 15
+    },
+    {
+     "name": "函",
+     "size": 15
+    },
+    {
+     "name": "函",
+     "size": 15
+    }
+   ]
+  },
+  {
+   "name": "10-15",
+   "children": [
+    {
+     "name": "合",
+     "size": 14
+    },
+    {
+     "name": "張",
+     "size": 14
+    },
+    {
+     "name": "張",
+     "size": 14
+    },
+    {
+     "name": "庸",
+     "size": 14
+    },
+    {
+     "name": "貫",
+     "size": 14
+    },
+    {
+     "name": "貫",
+     "size": 14
+    },
+    {
+     "name": "侯",
+     "size": 14
+    },
+    {
+     "name": "左右",
+     "size": 14
+    },
+    {
+     "name": "左右",
+     "size": 14
+    },
+    {
+     "name": "文",
+     "size": 14
+    },
+    {
+     "name": "顧",
+     "size": 14
+    },
+    {
+     "name": "顧",
+     "size": 14
+    },
+    {
+     "name": "起",
+     "size": 14
+    },
+    {
+     "name": "起",
+     "size": 14
+    },
+    {
+     "name": "起",
+     "size": 14
+    },
+    {
+     "name": "衡",
+     "size": 14
+    },
+    {
+     "name": "完",
+     "size": 14
+    },
+    {
+     "name": "完",
+     "size": 14
+    },
+    {
+     "name": "完",
+     "size": 14
+    },
+    {
+     "name": "橫",
+     "size": 14
+    },
+    {
+     "name": "祖",
+     "size": 14
+    },
+    {
+     "name": "祖",
+     "size": 14
+    },
+    {
+     "name": "貳",
+     "size": 13
+    },
+    {
+     "name": "精",
+     "size": 13
+    },
+    {
+     "name": "納",
+     "size": 13
+    },
+    {
+     "name": "播",
+     "size": 13
+    },
+    {
+     "name": "頭腦",
+     "size": 13
+    },
+    {
+     "name": "維",
+     "size": 13
+    },
+    {
+     "name": "原",
+     "size": 13
+    },
+    {
+     "name": "懷",
+     "size": 13
+    },
+    {
+     "name": "懷",
+     "size": 13
+    },
+    {
+     "name": "儀",
+     "size": 13
+    },
+    {
+     "name": "遊",
+     "size": 13
+    },
+    {
+     "name": "羽",
+     "size": 13
+    },
+    {
+     "name": "裁",
+     "size": 13
+    },
+    {
+     "name": "一時",
+     "size": 13
+    },
+    {
+     "name": "一時",
+     "size": 13
+    },
+    {
+     "name": "乃",
+     "size": 13
+    },
+    {
+     "name": "皇",
+     "size": 13
+    },
+    {
+     "name": "皇",
+     "size": 13
+    },
+    {
+     "name": "烈",
+     "size": 13
+    },
+    {
+     "name": "烈",
+     "size": 13
+    },
+    {
+     "name": "考",
+     "size": 13
+    },
+    {
+     "name": "容",
+     "size": 13
+    },
+    {
+     "name": "容",
+     "size": 13
+    },
+    {
+     "name": "采",
+     "size": 13
+    },
+    {
+     "name": "采",
+     "size": 13
+    },
+    {
+     "name": "采",
+     "size": 13
+    },
+    {
+     "name": "挾",
+     "size": 12
+    },
+    {
+     "name": "止",
+     "size": 12
+    },
+    {
+     "name": "害",
+     "size": 12
+    },
+    {
+     "name": "光景",
+     "size": 12
+    },
+    {
+     "name": "優",
+     "size": 12
+    },
+    {
+     "name": "優",
+     "size": 12
+    },
+    {
+     "name": "展",
+     "size": 12
+    },
+    {
+     "name": "履",
+     "size": 12
+    },
+    {
+     "name": "致",
+     "size": 12
+    },
+    {
+     "name": "所",
+     "size": 12
+    },
+    {
+     "name": "鹵",
+     "size": 12
+    },
+    {
+     "name": "況",
+     "size": 12
+    },
+    {
+     "name": "況",
+     "size": 12
+    },
+    {
+     "name": "況",
+     "size": 12
+    },
+    {
+     "name": "秀",
+     "size": 12
+    },
+    {
+     "name": "罔",
+     "size": 12
+    },
+    {
+     "name": "唯",
+     "size": 12
+    },
+    {
+     "name": "唯",
+     "size": 12
+    },
+    {
+     "name": "競",
+     "size": 12
+    },
+    {
+     "name": "競",
+     "size": 12
+    },
+    {
+     "name": "攝",
+     "size": 12
+    },
+    {
+     "name": "攝",
+     "size": 12
+    },
+    {
+     "name": "薦",
+     "size": 12
+    },
+    {
+     "name": "狂",
+     "size": 12
+    },
+    {
+     "name": "陽",
+     "size": 12
+    },
+    {
+     "name": "固",
+     "size": 12
+    },
+    {
+     "name": "式",
+     "size": 12
+    },
+    {
+     "name": "式",
+     "size": 12
+    },
+    {
+     "name": "式",
+     "size": 12
+    },
+    {
+     "name": "贊",
+     "size": 12
+    },
+    {
+     "name": "贊",
+     "size": 12
+    },
+    {
+     "name": "餌",
+     "size": 12
+    },
+    {
+     "name": "餌",
+     "size": 12
+    },
+    {
+     "name": "餌",
+     "size": 12
+    },
+    {
+     "name": "跨",
+     "size": 12
+    },
+    {
+     "name": "越",
+     "size": 12
+    },
+    {
+     "name": "越",
+     "size": 12
+    },
+    {
+     "name": "滋",
+     "size": 12
+    },
+    {
+     "name": "宿",
+     "size": 11
+    },
+    {
+     "name": "宿",
+     "size": 11
+    },
+    {
+     "name": "宿",
+     "size": 11
+    },
+    {
+     "name": "宿",
+     "size": 11
+    },
+    {
+     "name": "中人",
+     "size": 11
+    },
+    {
+     "name": "中人",
+     "size": 11
+    },
+    {
+     "name": "移",
+     "size": 11
+    },
+    {
+     "name": "移",
+     "size": 11
+    },
+    {
+     "name": "移",
+     "size": 11
+    },
+    {
+     "name": "闇",
+     "size": 11
+    },
+    {
+     "name": "闇",
+     "size": 11
+    },
+    {
+     "name": "信",
+     "size": 11
+    },
+    {
+     "name": "視",
+     "size": 11
+    },
+    {
+     "name": "宴",
+     "size": 11
+    },
+    {
+     "name": "異",
+     "size": 11
+    },
+    {
+     "name": "異",
+     "size": 11
+    },
+    {
+     "name": "勒",
+     "size": 11
+    },
+    {
+     "name": "勒",
+     "size": 11
+    },
+    {
+     "name": "勒",
+     "size": 11
+    },
+    {
+     "name": "穀",
+     "size": 11
+    },
+    {
+     "name": "遽",
+     "size": 11
+    },
+    {
+     "name": "適",
+     "size": 11
+    },
+    {
+     "name": "適",
+     "size": 11
+    },
+    {
+     "name": "習",
+     "size": 11
+    },
+    {
+     "name": "習",
+     "size": 11
+    },
+    {
+     "name": "習",
+     "size": 11
+    },
+    {
+     "name": "聞",
+     "size": 11
+    },
+    {
+     "name": "聞",
+     "size": 11
+    },
+    {
+     "name": "翼",
+     "size": 11
+    },
+    {
+     "name": "介",
+     "size": 11
+    },
+    {
+     "name": "不行",
+     "size": 11
+    },
+    {
+     "name": "不行",
+     "size": 11
+    },
+    {
+     "name": "去",
+     "size": 11
+    },
+    {
+     "name": "去",
+     "size": 11
+    },
+    {
+     "name": "盈",
+     "size": 11
+    },
+    {
+     "name": "通",
+     "size": 11
+    },
+    {
+     "name": "通",
+     "size": 11
+    },
+    {
+     "name": "通",
+     "size": 11
+    },
+    {
+     "name": "抗",
+     "size": 11
+    },
+    {
+     "name": "右",
+     "size": 11
+    },
+    {
+     "name": "方",
+     "size": 11
+    },
+    {
+     "name": "方",
+     "size": 11
+    },
+    {
+     "name": "方",
+     "size": 11
+    },
+    {
+     "name": "光明",
+     "size": 11
+    },
+    {
+     "name": "光明",
+     "size": 11
+    },
+    {
+     "name": "迫",
+     "size": 11
+    },
+    {
+     "name": "語",
+     "size": 11
+    },
+    {
+     "name": "怒",
+     "size": 11
+    },
+    {
+     "name": "苛",
+     "size": 11
+    },
+    {
+     "name": "苛",
+     "size": 11
+    },
+    {
+     "name": "絕",
+     "size": 11
+    },
+    {
+     "name": "絕",
+     "size": 11
+    },
+    {
+     "name": "何",
+     "size": 11
+    },
+    {
+     "name": "銜",
+     "size": 11
+    },
+    {
+     "name": "豫",
+     "size": 11
+    },
+    {
+     "name": "豫",
+     "size": 11
+    },
+    {
+     "name": "案",
+     "size": 11
+    },
+    {
+     "name": "賦",
+     "size": 11
+    },
+    {
+     "name": "賦",
+     "size": 11
+    },
+    {
+     "name": "因",
+     "size": 11
+    },
+    {
+     "name": "聚",
+     "size": 11
+    },
+    {
+     "name": "流",
+     "size": 11
+    },
+    {
+     "name": "病",
+     "size": 11
+    },
+    {
+     "name": "班",
+     "size": 11
+    },
+    {
+     "name": "班",
+     "size": 11
+    },
+    {
+     "name": "足",
+     "size": 10
+    },
+    {
+     "name": "圉",
+     "size": 10
+    },
+    {
+     "name": "末",
+     "size": 10
+    },
+    {
+     "name": "曠",
+     "size": 10
+    },
+    {
+     "name": "讎",
+     "size": 10
+    },
+    {
+     "name": "竦",
+     "size": 10
+    },
+    {
+     "name": "竦",
+     "size": 10
+    },
+    {
+     "name": "竦",
+     "size": 10
+    },
+    {
+     "name": "奉",
+     "size": 10
+    },
+    {
+     "name": "竟",
+     "size": 10
+    },
+    {
+     "name": "詳",
+     "size": 10
+    },
+    {
+     "name": "宗",
+     "size": 10
+    },
+    {
+     "name": "日",
+     "size": 10
+    },
+    {
+     "name": "邸",
+     "size": 10
+    },
+    {
+     "name": "邸",
+     "size": 10
+    },
+    {
+     "name": "覆",
+     "size": 10
+    },
+    {
+     "name": "釁",
+     "size": 10
+    },
+    {
+     "name": "釁",
+     "size": 10
+    },
+    {
+     "name": "銳",
+     "size": 10
+    },
+    {
+     "name": "銷",
+     "size": 10
+    },
+    {
+     "name": "先",
+     "size": 10
+    },
+    {
+     "name": "先",
+     "size": 10
+    },
+    {
+     "name": "閈",
+     "size": 10
+    },
+    {
+     "name": "篩",
+     "size": 10
+    },
+    {
+     "name": "闌",
+     "size": 10
+    },
+    {
+     "name": "席",
+     "size": 10
+    },
+    {
+     "name": "席",
+     "size": 10
+    },
+    {
+     "name": "陋",
+     "size": 10
+    },
+    {
+     "name": "距",
+     "size": 10
+    },
+    {
+     "name": "擬",
+     "size": 10
+    },
+    {
+     "name": "延",
+     "size": 10
+    },
+    {
+     "name": "弄",
+     "size": 10
+    },
+    {
+     "name": "白",
+     "size": 10
+    },
+    {
+     "name": "纓",
+     "size": 10
+    },
+    {
+     "name": "雅",
+     "size": 10
+    },
+    {
+     "name": "茹",
+     "size": 10
+    },
+    {
+     "name": "後",
+     "size": 10
+    },
+    {
+     "name": "復",
+     "size": 10
+    },
+    {
+     "name": "靖",
+     "size": 10
+    },
+    {
+     "name": "揆",
+     "size": 10
+    },
+    {
+     "name": "息",
+     "size": 10
+    },
+    {
+     "name": "息",
+     "size": 10
+    },
+    {
+     "name": "顛",
+     "size": 10
+    },
+    {
+     "name": "養",
+     "size": 10
+    },
+    {
+     "name": "熙",
+     "size": 10
+    },
+    {
+     "name": "熙",
+     "size": 10
+    },
+    {
+     "name": "熙",
+     "size": 10
+    },
+    {
+     "name": "慮",
+     "size": 10
+    },
+    {
+     "name": "慮",
+     "size": 10
+    },
+    {
+     "name": "折",
+     "size": 10
+    },
+    {
+     "name": "折",
+     "size": 10
+    },
+    {
+     "name": "猥",
+     "size": 10
+    },
+    {
+     "name": "猥",
+     "size": 10
+    },
+    {
+     "name": "猥",
+     "size": 10
+    },
+    {
+     "name": "拔",
+     "size": 10
+    }
+   ]
+  },
+  {
+   "name": "5-10",
+   "children": [
+    {
+     "name": "寫",
+     "size": 9
+    },
+    {
+     "name": "鈞",
+     "size": 9
+    },
+    {
+     "name": "鈞",
+     "size": 9
+    },
+    {
+     "name": "鈞",
+     "size": 9
+    },
+    {
+     "name": "汙",
+     "size": 9
+    },
+    {
+     "name": "變",
+     "size": 9
+    },
+    {
+     "name": "矯",
+     "size": 9
+    },
+    {
+     "name": "矯",
+     "size": 9
+    },
+    {
+     "name": "偏",
+     "size": 9
+    },
+    {
+     "name": "編",
+     "size": 9
+    },
+    {
+     "name": "太上",
+     "size": 9
+    },
+    {
+     "name": "朱鳥",
+     "size": 9
+    },
+    {
+     "name": "謁",
+     "size": 9
+    },
+    {
+     "name": "併",
+     "size": 9
+    },
+    {
+     "name": "質",
+     "size": 9
+    },
+    {
+     "name": "敬",
+     "size": 9
+    },
+    {
+     "name": "奕",
+     "size": 9
+    },
+    {
+     "name": "縱橫",
+     "size": 9
+    },
+    {
+     "name": "景",
+     "size": 9
+    },
+    {
+     "name": "味",
+     "size": 9
+    },
+    {
+     "name": "壁",
+     "size": 9
+    },
+    {
+     "name": "經紀",
+     "size": 9
+    },
+    {
+     "name": "誦",
+     "size": 9
+    },
+    {
+     "name": "鏡",
+     "size": 9
+    },
+    {
+     "name": "明",
+     "size": 9
+    },
+    {
+     "name": "準",
+     "size": 9
+    },
+    {
+     "name": "準",
+     "size": 9
+    },
+    {
+     "name": "亂",
+     "size": 9
+    },
+    {
+     "name": "徇",
+     "size": 9
+    },
+    {
+     "name": "徇",
+     "size": 9
+    },
+    {
+     "name": "乳",
+     "size": 9
+    },
+    {
+     "name": "觀",
+     "size": 9
+    },
+    {
+     "name": "回",
+     "size": 9
+    },
+    {
+     "name": "並",
+     "size": 9
+    },
+    {
+     "name": "灰",
+     "size": 9
+    },
+    {
+     "name": "多",
+     "size": 9
+    },
+    {
+     "name": "匡",
+     "size": 9
+    },
+    {
+     "name": "揄",
+     "size": 9
+    },
+    {
+     "name": "服",
+     "size": 9
+    },
+    {
+     "name": "悍",
+     "size": 9
+    },
+    {
+     "name": "躡",
+     "size": 9
+    },
+    {
+     "name": "梟",
+     "size": 9
+    },
+    {
+     "name": "稽",
+     "size": 9
+    },
+    {
+     "name": "脅",
+     "size": 9
+    },
+    {
+     "name": "執事",
+     "size": 9
+    },
+    {
+     "name": "肅",
+     "size": 9
+    },
+    {
+     "name": "驕",
+     "size": 9
+    },
+    {
+     "name": "珥",
+     "size": 9
+    },
+    {
+     "name": "扞",
+     "size": 9
+    },
+    {
+     "name": "扶",
+     "size": 9
+    },
+    {
+     "name": "{[9071]}",
+     "size": 9
+    },
+    {
+     "name": "{[9071]}",
+     "size": 9
+    },
+    {
+     "name": "物色",
+     "size": 9
+    },
+    {
+     "name": "鯁",
+     "size": 9
+    },
+    {
+     "name": "拊",
+     "size": 9
+    },
+    {
+     "name": "課",
+     "size": 8
+    },
+    {
+     "name": "交臂",
+     "size": 8
+    },
+    {
+     "name": "交臂",
+     "size": 8
+    },
+    {
+     "name": "石室",
+     "size": 8
+    },
+    {
+     "name": "石室",
+     "size": 8
+    },
+    {
+     "name": "婉孌",
+     "size": 8
+    },
+    {
+     "name": "交關",
+     "size": 8
+    },
+    {
+     "name": "交關",
+     "size": 8
+    },
+    {
+     "name": "媵",
+     "size": 8
+    },
+    {
+     "name": "媵",
+     "size": 8
+    },
+    {
+     "name": "嫌",
+     "size": 8
+    },
+    {
+     "name": "嬰",
+     "size": 8
+    },
+    {
+     "name": "傅",
+     "size": 8
+    },
+    {
+     "name": "字",
+     "size": 8
+    },
+    {
+     "name": "昆",
+     "size": 8
+    },
+    {
+     "name": "安",
+     "size": 8
+    },
+    {
+     "name": "橈",
+     "size": 8
+    },
+    {
+     "name": "橈",
+     "size": 8
+    },
+    {
+     "name": "宗室",
+     "size": 8
+    },
+    {
+     "name": "宗師",
+     "size": 8
+    },
+    {
+     "name": "宗師",
+     "size": 8
+    },
+    {
+     "name": "宗師",
+     "size": 8
+    },
+    {
+     "name": "宗師",
+     "size": 8
+    },
+    {
+     "name": "反",
+     "size": 8
+    },
+    {
+     "name": "樵",
+     "size": 8
+    },
+    {
+     "name": "鏤",
+     "size": 8
+    },
+    {
+     "name": "靜",
+     "size": 8
+    },
+    {
+     "name": "優游",
+     "size": 8
+    },
+    {
+     "name": "人物",
+     "size": 8
+    },
+    {
+     "name": "兀",
+     "size": 8
+    },
+    {
+     "name": "迪",
+     "size": 8
+    },
+    {
+     "name": "辯",
+     "size": 8
+    },
+    {
+     "name": "鎖",
+     "size": 8
+    },
+    {
+     "name": "辟",
+     "size": 8
+    },
+    {
+     "name": "楨幹",
+     "size": 8
+    },
+    {
+     "name": "楨幹",
+     "size": 8
+    },
+    {
+     "name": "楨幹",
+     "size": 8
+    },
+    {
+     "name": "皁",
+     "size": 8
+    },
+    {
+     "name": "補",
+     "size": 8
+    },
+    {
+     "name": "求",
+     "size": 8
+    },
+    {
+     "name": "光光",
+     "size": 8
+    },
+    {
+     "name": "三五",
+     "size": 8
+    },
+    {
+     "name": "員",
+     "size": 8
+    },
+    {
+     "name": "緘",
+     "size": 8
+    },
+    {
+     "name": "屯",
+     "size": 8
+    },
+    {
+     "name": "馴",
+     "size": 8
+    },
+    {
+     "name": "內",
+     "size": 8
+    },
+    {
+     "name": "斗",
+     "size": 8
+    },
+    {
+     "name": "伊",
+     "size": 8
+    },
+    {
+     "name": "善",
+     "size": 8
+    },
+    {
+     "name": "緯",
+     "size": 8
+    },
+    {
+     "name": "數",
+     "size": 8
+    },
+    {
+     "name": "號",
+     "size": 8
+    },
+    {
+     "name": "號",
+     "size": 8
+    },
+    {
+     "name": "{[8ea9]}",
+     "size": 8
+    },
+    {
+     "name": "蹇",
+     "size": 8
+    },
+    {
+     "name": "下人",
+     "size": 8
+    },
+    {
+     "name": "下人",
+     "size": 8
+    },
+    {
+     "name": "毒",
+     "size": 8
+    },
+    {
+     "name": "毒",
+     "size": 8
+    },
+    {
+     "name": "枝葉",
+     "size": 8
+    },
+    {
+     "name": "枝葉",
+     "size": 8
+    },
+    {
+     "name": "兼",
+     "size": 8
+    },
+    {
+     "name": "禍",
+     "size": 8
+    },
+    {
+     "name": "低頭",
+     "size": 8
+    },
+    {
+     "name": "度",
+     "size": 8
+    },
+    {
+     "name": "金",
+     "size": 8
+    },
+    {
+     "name": "牒",
+     "size": 8
+    },
+    {
+     "name": "牒",
+     "size": 8
+    },
+    {
+     "name": "釐",
+     "size": 8
+    },
+    {
+     "name": "操持",
+     "size": 8
+    },
+    {
+     "name": "鼎",
+     "size": 8
+    },
+    {
+     "name": "弁",
+     "size": 8
+    },
+    {
+     "name": "弁",
+     "size": 8
+    },
+    {
+     "name": "眇",
+     "size": 8
+    },
+    {
+     "name": "眇",
+     "size": 8
+    },
+    {
+     "name": "重",
+     "size": 8
+    },
+    {
+     "name": "撲",
+     "size": 8
+    },
+    {
+     "name": "坎",
+     "size": 8
+    },
+    {
+     "name": "釋",
+     "size": 8
+    },
+    {
+     "name": "涓涓",
+     "size": 8
+    },
+    {
+     "name": "下土",
+     "size": 8
+    },
+    {
+     "name": "弭",
+     "size": 8
+    },
+    {
+     "name": "殆",
+     "size": 8
+    },
+    {
+     "name": "杖",
+     "size": 8
+    },
+    {
+     "name": "報復",
+     "size": 8
+    },
+    {
+     "name": "贍",
+     "size": 8
+    },
+    {
+     "name": "贍",
+     "size": 8
+    },
+    {
+     "name": "三命",
+     "size": 8
+    },
+    {
+     "name": "歲",
+     "size": 8
+    },
+    {
+     "name": "歲",
+     "size": 8
+    },
+    {
+     "name": "籌",
+     "size": 8
+    },
+    {
+     "name": "籌",
+     "size": 8
+    },
+    {
+     "name": "督",
+     "size": 8
+    },
+    {
+     "name": "督",
+     "size": 8
+    },
+    {
+     "name": "髹",
+     "size": 8
+    },
+    {
+     "name": "列",
+     "size": 8
+    },
+    {
+     "name": "循",
+     "size": 8
+    },
+    {
+     "name": "羞",
+     "size": 8
+    },
+    {
+     "name": "羞",
+     "size": 8
+    },
+    {
+     "name": "揣",
+     "size": 8
+    },
+    {
+     "name": "矜",
+     "size": 8
+    },
+    {
+     "name": "芬",
+     "size": 8
+    },
+    {
+     "name": "鄰",
+     "size": 8
+    },
+    {
+     "name": "亞",
+     "size": 8
+    },
+    {
+     "name": "闋",
+     "size": 8
+    },
+    {
+     "name": "恆",
+     "size": 8
+    },
+    {
+     "name": "推",
+     "size": 8
+    },
+    {
+     "name": "闊",
+     "size": 8
+    },
+    {
+     "name": "闊",
+     "size": 8
+    },
+    {
+     "name": "闊",
+     "size": 8
+    },
+    {
+     "name": "亡",
+     "size": 8
+    },
+    {
+     "name": "悠悠",
+     "size": 8
+    },
+    {
+     "name": "曷",
+     "size": 8
+    },
+    {
+     "name": "颺",
+     "size": 8
+    },
+    {
+     "name": "想",
+     "size": 8
+    },
+    {
+     "name": "務",
+     "size": 8
+    },
+    {
+     "name": "採",
+     "size": 8
+    },
+    {
+     "name": "羽翼",
+     "size": 8
+    },
+    {
+     "name": "鞠",
+     "size": 8
+    },
+    {
+     "name": "勤",
+     "size": 8
+    },
+    {
+     "name": "脫",
+     "size": 8
+    },
+    {
+     "name": "脫",
+     "size": 8
+    },
+    {
+     "name": "累",
+     "size": 8
+    },
+    {
+     "name": "遷",
+     "size": 8
+    },
+    {
+     "name": "翔",
+     "size": 8
+    },
+    {
+     "name": "翔",
+     "size": 8
+    },
+    {
+     "name": "捽",
+     "size": 8
+    },
+    {
+     "name": "翫",
+     "size": 8
+    },
+    {
+     "name": "偃蹇",
+     "size": 8
+    },
+    {
+     "name": "諾",
+     "size": 8
+    },
+    {
+     "name": "聲",
+     "size": 8
+    },
+    {
+     "name": "一概",
+     "size": 8
+    },
+    {
+     "name": "閑",
+     "size": 8
+    },
+    {
+     "name": "閑",
+     "size": 8
+    },
+    {
+     "name": "指",
+     "size": 8
+    },
+    {
+     "name": "穢",
+     "size": 8
+    },
+    {
+     "name": "瘉",
+     "size": 8
+    },
+    {
+     "name": "瘉",
+     "size": 8
+    },
+    {
+     "name": "易",
+     "size": 8
+    },
+    {
+     "name": "易",
+     "size": 8
+    },
+    {
+     "name": "綦",
+     "size": 8
+    },
+    {
+     "name": "拘",
+     "size": 7
+    },
+    {
+     "name": "披",
+     "size": 7
+    },
+    {
+     "name": "折節",
+     "size": 7
+    },
+    {
+     "name": "折節",
+     "size": 7
+    },
+    {
+     "name": "折節",
+     "size": 7
+    },
+    {
+     "name": "抄",
+     "size": 7
+    },
+    {
+     "name": "我",
+     "size": 7
+    },
+    {
+     "name": "胡",
+     "size": 7
+    },
+    {
+     "name": "胡",
+     "size": 7
+    },
+    {
+     "name": "胡",
+     "size": 7
+    },
+    {
+     "name": "懸",
+     "size": 7
+    },
+    {
+     "name": "臧",
+     "size": 7
+    },
+    {
+     "name": "悲",
+     "size": 7
+    },
+    {
+     "name": "揉",
+     "size": 7
+    },
+    {
+     "name": "徑",
+     "size": 7
+    },
+    {
+     "name": "揵",
+     "size": 7
+    },
+    {
+     "name": "揵",
+     "size": 7
+    },
+    {
+     "name": "徂",
+     "size": 7
+    },
+    {
+     "name": "羅",
+     "size": 7
+    },
+    {
+     "name": "荊棘",
+     "size": 7
+    },
+    {
+     "name": "形勢",
+     "size": 7
+    },
+    {
+     "name": "彀",
+     "size": 7
+    },
+    {
+     "name": "萬",
+     "size": 7
+    },
+    {
+     "name": "廣大",
+     "size": 7
+    },
+    {
+     "name": "著",
+     "size": 7
+    },
+    {
+     "name": "蒙",
+     "size": 7
+    },
+    {
+     "name": "蒙",
+     "size": 7
+    },
+    {
+     "name": "幣",
+     "size": 7
+    },
+    {
+     "name": "幕",
+     "size": 7
+    },
+    {
+     "name": "縢",
+     "size": 7
+    },
+    {
+     "name": "縢",
+     "size": 7
+    },
+    {
+     "name": "敖",
+     "size": 7
+    },
+    {
+     "name": "斂",
+     "size": 7
+    },
+    {
+     "name": "巢",
+     "size": 7
+    },
+    {
+     "name": "崩",
+     "size": 7
+    },
+    {
+     "name": "緝",
+     "size": 7
+    },
+    {
+     "name": "覈",
+     "size": 7
+    },
+    {
+     "name": "覈",
+     "size": 7
+    },
+    {
+     "name": "覈",
+     "size": 7
+    },
+    {
+     "name": "觚",
+     "size": 7
+    },
+    {
+     "name": "調",
+     "size": 7
+    },
+    {
+     "name": "調",
+     "size": 7
+    },
+    {
+     "name": "時節",
+     "size": 7
+    },
+    {
+     "name": "晏",
+     "size": 7
+    },
+    {
+     "name": "晏",
+     "size": 7
+    },
+    {
+     "name": "失節",
+     "size": 7
+    },
+    {
+     "name": "謬",
+     "size": 7
+    },
+    {
+     "name": "謬",
+     "size": 7
+    },
+    {
+     "name": "天府",
+     "size": 7
+    },
+    {
+     "name": "讕",
+     "size": 7
+    },
+    {
+     "name": "大命",
+     "size": 7
+    },
+    {
+     "name": "大人",
+     "size": 7
+    },
+    {
+     "name": "負",
+     "size": 7
+    },
+    {
+     "name": "財",
+     "size": 7
+    },
+    {
+     "name": "賒",
+     "size": 7
+    },
+    {
+     "name": "報",
+     "size": 7
+    },
+    {
+     "name": "坐",
+     "size": 7
+    },
+    {
+     "name": "跗",
+     "size": 7
+    },
+    {
+     "name": "踐",
+     "size": 7
+    },
+    {
+     "name": "踞",
+     "size": 7
+    },
+    {
+     "name": "因循",
+     "size": 7
+    },
+    {
+     "name": "嚴",
+     "size": 7
+    },
+    {
+     "name": "單",
+     "size": 7
+    },
+    {
+     "name": "單",
+     "size": 7
+    },
+    {
+     "name": "栗",
+     "size": 7
+    },
+    {
+     "name": "第",
+     "size": 7
+    },
+    {
+     "name": "第",
+     "size": 7
+    },
+    {
+     "name": "軌",
+     "size": 7
+    },
+    {
+     "name": "輿",
+     "size": 7
+    },
+    {
+     "name": "吟",
+     "size": 7
+    },
+    {
+     "name": "后",
+     "size": 7
+    },
+    {
+     "name": "迕",
+     "size": 7
+    },
+    {
+     "name": "迕",
+     "size": 7
+    },
+    {
+     "name": "抵死",
+     "size": 7
+    },
+    {
+     "name": "突",
+     "size": 7
+    },
+    {
+     "name": "運",
+     "size": 7
+    },
+    {
+     "name": "檠",
+     "size": 7
+    },
+    {
+     "name": "檢",
+     "size": 7
+    },
+    {
+     "name": "即",
+     "size": 7
+    },
+    {
+     "name": "遣",
+     "size": 7
+    },
+    {
+     "name": "剋",
+     "size": 7
+    },
+    {
+     "name": "剋",
+     "size": 7
+    },
+    {
+     "name": "剋",
+     "size": 7
+    },
+    {
+     "name": "剋",
+     "size": 7
+    },
+    {
+     "name": "刺",
+     "size": 7
+    },
+    {
+     "name": "刺",
+     "size": 7
+    },
+    {
+     "name": "切",
+     "size": 7
+    },
+    {
+     "name": "釃",
+     "size": 7
+    },
+    {
+     "name": "釃",
+     "size": 7
+    },
+    {
+     "name": "金石",
+     "size": 7
+    },
+    {
+     "name": "殪",
+     "size": 7
+    },
+    {
+     "name": "典刑",
+     "size": 7
+    },
+    {
+     "name": "鉗",
+     "size": 7
+    },
+    {
+     "name": "鉗",
+     "size": 7
+    },
+    {
+     "name": "祥",
+     "size": 7
+    },
+    {
+     "name": "氂",
+     "size": 7
+    },
+    {
+     "name": "氂",
+     "size": 7
+    },
+    {
+     "name": "光榮",
+     "size": 7
+    },
+    {
+     "name": "氾",
+     "size": 7
+    },
+    {
+     "name": "汪汪",
+     "size": 7
+    },
+    {
+     "name": "碎",
+     "size": 7
+    },
+    {
+     "name": "{[96c7]}",
+     "size": 7
+    },
+    {
+     "name": "假借",
+     "size": 7
+    },
+    {
+     "name": "閔",
+     "size": 7
+    },
+    {
+     "name": "借",
+     "size": 7
+    },
+    {
+     "name": "矢",
+     "size": 7
+    },
+    {
+     "name": "關",
+     "size": 7
+    },
+    {
+     "name": "關",
+     "size": 7
+    },
+    {
+     "name": "流光",
+     "size": 7
+    },
+    {
+     "name": "流離",
+     "size": 7
+    },
+    {
+     "name": "流離",
+     "size": 7
+    },
+    {
+     "name": "流離",
+     "size": 7
+    },
+    {
+     "name": "阿",
+     "size": 7
+    },
+    {
+     "name": "作意",
+     "size": 7
+    },
+    {
+     "name": "直",
+     "size": 7
+    },
+    {
+     "name": "直",
+     "size": 7
+    },
+    {
+     "name": "伏",
+     "size": 7
+    },
+    {
+     "name": "淺",
+     "size": 7
+    },
+    {
+     "name": "伉",
+     "size": 7
+    },
+    {
+     "name": "皋",
+     "size": 7
+    },
+    {
+     "name": "湯",
+     "size": 7
+    },
+    {
+     "name": "交會",
+     "size": 7
+    },
+    {
+     "name": "交手",
+     "size": 7
+    },
+    {
+     "name": "五常",
+     "size": 7
+    },
+    {
+     "name": "乂",
+     "size": 7
+    },
+    {
+     "name": "中外",
+     "size": 7
+    },
+    {
+     "name": "中外",
+     "size": 7
+    },
+    {
+     "name": "中外",
+     "size": 7
+    },
+    {
+     "name": "中夏",
+     "size": 7
+    },
+    {
+     "name": "激揚",
+     "size": 7
+    },
+    {
+     "name": "激揚",
+     "size": 7
+    },
+    {
+     "name": "激揚",
+     "size": 7
+    },
+    {
+     "name": "中國",
+     "size": 7
+    },
+    {
+     "name": "領",
+     "size": 7
+    },
+    {
+     "name": "領",
+     "size": 7
+    },
+    {
+     "name": "風氣",
+     "size": 7
+    },
+    {
+     "name": "煙火",
+     "size": 7
+    },
+    {
+     "name": "爛",
+     "size": 7
+    },
+    {
+     "name": "爛",
+     "size": 7
+    },
+    {
+     "name": "驚",
+     "size": 7
+    },
+    {
+     "name": "爵",
+     "size": 7
+    },
+    {
+     "name": "犁",
+     "size": 7
+    },
+    {
+     "name": "一就",
+     "size": 7
+    },
+    {
+     "name": "狂夫",
+     "size": 7
+    },
+    {
+     "name": "黷",
+     "size": 7
+    },
+    {
+     "name": "釱",
+     "size": 6
+    },
+    {
+     "name": "釱",
+     "size": 6
+    },
+    {
+     "name": "一世",
+     "size": 6
+    },
+    {
+     "name": "育",
+     "size": 6
+    },
+    {
+     "name": "豪",
+     "size": 6
+    },
+    {
+     "name": "豪",
+     "size": 6
+    },
+    {
+     "name": "象",
+     "size": 6
+    },
+    {
+     "name": "凡",
+     "size": 6
+    },
+    {
+     "name": "戢",
+     "size": 6
+    },
+    {
+     "name": "大器",
+     "size": 6
+    },
+    {
+     "name": "大故",
+     "size": 6
+    },
+    {
+     "name": "手筆",
+     "size": 6
+    },
+    {
+     "name": "肄",
+     "size": 6
+    },
+    {
+     "name": "凶事",
+     "size": 6
+    },
+    {
+     "name": "天命",
+     "size": 6
+    },
+    {
+     "name": "里",
+     "size": 6
+    },
+    {
+     "name": "扼",
+     "size": 6
+    },
+    {
+     "name": "仍",
+     "size": 6
+    },
+    {
+     "name": "耳",
+     "size": 6
+    },
+    {
+     "name": "天馬",
+     "size": 6
+    },
+    {
+     "name": "抵",
+     "size": 6
+    },
+    {
+     "name": "太公",
+     "size": 6
+    },
+    {
+     "name": "太公",
+     "size": 6
+    },
+    {
+     "name": "太清",
+     "size": 6
+    },
+    {
+     "name": "夭",
+     "size": 6
+    },
+    {
+     "name": "仰",
+     "size": 6
+    },
+    {
+     "name": "持重",
+     "size": 6
+    },
+    {
+     "name": "丘山",
+     "size": 6
+    },
+    {
+     "name": "奏",
+     "size": 6
+    },
+    {
+     "name": "奏",
+     "size": 6
+    },
+    {
+     "name": "龍蛇",
+     "size": 6
+    },
+    {
+     "name": "諸",
+     "size": 6
+    },
+    {
+     "name": "初",
+     "size": 6
+    },
+    {
+     "name": "奪",
+     "size": 6
+    },
+    {
+     "name": "諶",
+     "size": 6
+    },
+    {
+     "name": "掎",
+     "size": 6
+    },
+    {
+     "name": "諧",
+     "size": 6
+    },
+    {
+     "name": "諧",
+     "size": 6
+    },
+    {
+     "name": "羸",
+     "size": 6
+    },
+    {
+     "name": "妙",
+     "size": 6
+    },
+    {
+     "name": "佐",
+     "size": 6
+    },
+    {
+     "name": "美人",
+     "size": 6
+    },
+    {
+     "name": "郵",
+     "size": 6
+    },
+    {
+     "name": "剝",
+     "size": 6
+    },
+    {
+     "name": "搖搖",
+     "size": 6
+    },
+    {
+     "name": "部署",
+     "size": 6
+    },
+    {
+     "name": "郎",
+     "size": 6
+    },
+    {
+     "name": "誡",
+     "size": 6
+    },
+    {
+     "name": "誡",
+     "size": 6
+    },
+    {
+     "name": "剽",
+     "size": 6
+    },
+    {
+     "name": "誕",
+     "size": 6
+    },
+    {
+     "name": "纍纍",
+     "size": 6
+    },
+    {
+     "name": "邕",
+     "size": 6
+    },
+    {
+     "name": "邕",
+     "size": 6
+    },
+    {
+     "name": "餒",
+     "size": 6
+    },
+    {
+     "name": "詭",
+     "size": 6
+    },
+    {
+     "name": "支",
+     "size": 6
+    },
+    {
+     "name": "收斂",
+     "size": 6
+    },
+    {
+     "name": "嫚",
+     "size": 6
+    },
+    {
+     "name": "嫚",
+     "size": 6
+    },
+    {
+     "name": "詣",
+     "size": 6
+    },
+    {
+     "name": "訴",
+     "size": 6
+    },
+    {
+     "name": "限",
+     "size": 6
+    },
+    {
+     "name": "下里",
+     "size": 6
+    },
+    {
+     "name": "孔",
+     "size": 6
+    },
+    {
+     "name": "何謂",
+     "size": 6
+    },
+    {
+     "name": "縕",
+     "size": 6
+    },
+    {
+     "name": "作念",
+     "size": 6
+    },
+    {
+     "name": "作念",
+     "size": 6
+    },
+    {
+     "name": "訖",
+     "size": 6
+    },
+    {
+     "name": "文武",
+     "size": 6
+    },
+    {
+     "name": "陌",
+     "size": 6
+    },
+    {
+     "name": "新婦",
+     "size": 6
+    },
+    {
+     "name": "飾",
+     "size": 6
+    },
+    {
+     "name": "騫",
+     "size": 6
+    },
+    {
+     "name": "綰",
+     "size": 6
+    },
+    {
+     "name": "宜",
+     "size": 6
+    },
+    {
+     "name": "卬",
+     "size": 6
+    },
+    {
+     "name": "昏亂",
+     "size": 6
+    },
+    {
+     "name": "侈",
+     "size": 6
+    },
+    {
+     "name": "闔",
+     "size": 6
+    },
+    {
+     "name": "卹",
+     "size": 6
+    },
+    {
+     "name": "卹",
+     "size": 6
+    },
+    {
+     "name": "三朝",
+     "size": 6
+    },
+    {
+     "name": "容容",
+     "size": 6
+    },
+    {
+     "name": "容容",
+     "size": 6
+    },
+    {
+     "name": "絕世",
+     "size": 6
+    },
+    {
+     "name": "闈",
+     "size": 6
+    },
+    {
+     "name": "原本",
+     "size": 6
+    },
+    {
+     "name": "厭厭",
+     "size": 6
+    },
+    {
+     "name": "三老",
+     "size": 6
+    },
+    {
+     "name": "曹",
+     "size": 6
+    },
+    {
+     "name": "曹",
+     "size": 6
+    },
+    {
+     "name": "有識",
+     "size": 6
+    },
+    {
+     "name": "朒",
+     "size": 6
+    },
+    {
+     "name": "糾",
+     "size": 6
+    },
+    {
+     "name": "朝夕",
+     "size": 6
+    },
+    {
+     "name": "褒",
+     "size": 6
+    },
+    {
+     "name": "製",
+     "size": 6
+    },
+    {
+     "name": "製",
+     "size": 6
+    },
+    {
+     "name": "製",
+     "size": 6
+    },
+    {
+     "name": "本末",
+     "size": 6
+    },
+    {
+     "name": "粲",
+     "size": 6
+    },
+    {
+     "name": "魁",
+     "size": 6
+    },
+    {
+     "name": "杅",
+     "size": 6
+    },
+    {
+     "name": "簿",
+     "size": 6
+    },
+    {
+     "name": "簿",
+     "size": 6
+    },
+    {
+     "name": "風流",
+     "size": 6
+    },
+    {
+     "name": "風流",
+     "size": 6
+    },
+    {
+     "name": "裂",
+     "size": 6
+    },
+    {
+     "name": "述",
+     "size": 6
+    },
+    {
+     "name": "柔",
+     "size": 6
+    },
+    {
+     "name": "居",
+     "size": 6
+    },
+    {
+     "name": "迮",
+     "size": 6
+    },
+    {
+     "name": "屑屑",
+     "size": 6
+    },
+    {
+     "name": "屑屑",
+     "size": 6
+    },
+    {
+     "name": "各各",
+     "size": 6
+    },
+    {
+     "name": "展轉",
+     "size": 6
+    },
+    {
+     "name": "合口",
+     "size": 6
+    },
+    {
+     "name": "表裡",
+     "size": 6
+    },
+    {
+     "name": "表裡",
+     "size": 6
+    },
+    {
+     "name": "倩",
+     "size": 6
+    },
+    {
+     "name": "巨室",
+     "size": 6
+    },
+    {
+     "name": "假",
+     "size": 6
+    },
+    {
+     "name": "蠶食",
+     "size": 6
+    },
+    {
+     "name": "閑閑",
+     "size": 6
+    },
+    {
+     "name": "機巧",
+     "size": 6
+    },
+    {
+     "name": "偉",
+     "size": 6
+    },
+    {
+     "name": "轠",
+     "size": 6
+    },
+    {
+     "name": "{[fdaf]}",
+     "size": 6
+    },
+    {
+     "name": "帷幄",
+     "size": 6
+    },
+    {
+     "name": "帷幄",
+     "size": 6
+    },
+    {
+     "name": "雜",
+     "size": 6
+    },
+    {
+     "name": "雜",
+     "size": 6
+    },
+    {
+     "name": "事",
+     "size": 6
+    },
+    {
+     "name": "側室",
+     "size": 6
+    },
+    {
+     "name": "咀嚼",
+     "size": 6
+    },
+    {
+     "name": "輔",
+     "size": 6
+    },
+    {
+     "name": "幸",
+     "size": 6
+    },
+    {
+     "name": "事情",
+     "size": 6
+    },
+    {
+     "name": "輓",
+     "size": 6
+    },
+    {
+     "name": "殘",
+     "size": 6
+    },
+    {
+     "name": "殘",
+     "size": 6
+    },
+    {
+     "name": "蒼龍",
+     "size": 6
+    },
+    {
+     "name": "輂",
+     "size": 6
+    },
+    {
+     "name": "庸庸",
+     "size": 6
+    },
+    {
+     "name": "二八",
+     "size": 6
+    },
+    {
+     "name": "唱和",
+     "size": 6
+    },
+    {
+     "name": "葆",
+     "size": 6
+    },
+    {
+     "name": "建",
+     "size": 6
+    },
+    {
+     "name": "建",
+     "size": 6
+    },
+    {
+     "name": "啖",
+     "size": 6
+    },
+    {
+     "name": "碌碌",
+     "size": 6
+    },
+    {
+     "name": "沉吟",
+     "size": 6
+    },
+    {
+     "name": "确",
+     "size": 6
+    },
+    {
+     "name": "确",
+     "size": 6
+    },
+    {
+     "name": "上天",
+     "size": 6
+    },
+    {
+     "name": "上帝",
+     "size": 6
+    },
+    {
+     "name": "儉",
+     "size": 6
+    },
+    {
+     "name": "儐",
+     "size": 6
+    },
+    {
+     "name": "黜",
+     "size": 6
+    },
+    {
+     "name": "躔",
+     "size": 6
+    },
+    {
+     "name": "菹",
+     "size": 6
+    },
+    {
+     "name": "洽",
+     "size": 6
+    },
+    {
+     "name": "儗",
+     "size": 6
+    },
+    {
+     "name": "儗",
+     "size": 6
+    },
+    {
+     "name": "洿",
+     "size": 6
+    },
+    {
+     "name": "洿",
+     "size": 6
+    },
+    {
+     "name": "雄",
+     "size": 6
+    },
+    {
+     "name": "海",
+     "size": 6
+    },
+    {
+     "name": "眩",
+     "size": 6
+    },
+    {
+     "name": "儲",
+     "size": 6
+    },
+    {
+     "name": "草",
+     "size": 6
+    },
+    {
+     "name": "盪",
+     "size": 6
+    },
+    {
+     "name": "元",
+     "size": 6
+    },
+    {
+     "name": "清亮",
+     "size": 6
+    },
+    {
+     "name": "清明",
+     "size": 6
+    },
+    {
+     "name": "苦",
+     "size": 6
+    },
+    {
+     "name": "渙然",
+     "size": 6
+    },
+    {
+     "name": "渫",
+     "size": 6
+    },
+    {
+     "name": "測",
+     "size": 6
+    },
+    {
+     "name": "駕",
+     "size": 6
+    },
+    {
+     "name": "在",
+     "size": 6
+    },
+    {
+     "name": "微微",
+     "size": 6
+    },
+    {
+     "name": "跡",
+     "size": 6
+    },
+    {
+     "name": "溷",
+     "size": 6
+    },
+    {
+     "name": "溷",
+     "size": 6
+    },
+    {
+     "name": "演",
+     "size": 6
+    },
+    {
+     "name": "演",
+     "size": 6
+    },
+    {
+     "name": "上流",
+     "size": 6
+    },
+    {
+     "name": "漫漫",
+     "size": 6
+    },
+    {
+     "name": "光耀",
+     "size": 6
+    },
+    {
+     "name": "跕",
+     "size": 6
+    },
+    {
+     "name": "潤",
+     "size": 6
+    },
+    {
+     "name": "疇",
+     "size": 6
+    },
+    {
+     "name": "麗",
+     "size": 6
+    },
+    {
+     "name": "超",
+     "size": 6
+    },
+    {
+     "name": "激切",
+     "size": 6
+    },
+    {
+     "name": "艮",
+     "size": 6
+    },
+    {
+     "name": "炳",
+     "size": 6
+    },
+    {
+     "name": "交歡",
+     "size": 6
+    },
+    {
+     "name": "堅",
+     "size": 6
+    },
+    {
+     "name": "堅",
+     "size": 6
+    },
+    {
+     "name": "內人",
+     "size": 6
+    },
+    {
+     "name": "贏",
+     "size": 6
+    },
+    {
+     "name": "上賓",
+     "size": 6
+    },
+    {
+     "name": "交錯",
+     "size": 6
+    },
+    {
+     "name": "琦",
+     "size": 6
+    },
+    {
+     "name": "高明",
+     "size": 6
+    },
+    {
+     "name": "臘",
+     "size": 6
+    },
+    {
+     "name": "膠固",
+     "size": 6
+    },
+    {
+     "name": "王",
+     "size": 6
+    },
+    {
+     "name": "牟",
+     "size": 6
+    },
+    {
+     "name": "玉堂",
+     "size": 6
+    },
+    {
+     "name": "玉堂",
+     "size": 6
+    },
+    {
+     "name": "狀",
+     "size": 6
+    },
+    {
+     "name": "外家",
+     "size": 6
+    },
+    {
+     "name": "懋",
+     "size": 6
+    },
+    {
+     "name": "猋",
+     "size": 5
+    },
+    {
+     "name": "犕",
+     "size": 5
+    },
+    {
+     "name": "牢",
+     "size": 5
+    },
+    {
+     "name": "牡",
+     "size": 5
+    },
+    {
+     "name": "牘",
+     "size": 5
+    },
+    {
+     "name": "牘",
+     "size": 5
+    },
+    {
+     "name": "王庭",
+     "size": 5
+    },
+    {
+     "name": "珍物",
+     "size": 5
+    },
+    {
+     "name": "珍物",
+     "size": 5
+    },
+    {
+     "name": "燎",
+     "size": 5
+    },
+    {
+     "name": "瑋",
+     "size": 5
+    },
+    {
+     "name": "瓊",
+     "size": 5
+    },
+    {
+     "name": "田",
+     "size": 5
+    },
+    {
+     "name": "界",
+     "size": 5
+    },
+    {
+     "name": "界",
+     "size": 5
+    },
+    {
+     "name": "畏",
+     "size": 5
+    },
+    {
+     "name": "留",
+     "size": 5
+    },
+    {
+     "name": "潰",
+     "size": 5
+    },
+    {
+     "name": "溲",
+     "size": 5
+    },
+    {
+     "name": "溫厚",
+     "size": 5
+    },
+    {
+     "name": "溫厚",
+     "size": 5
+    },
+    {
+     "name": "清靜",
+     "size": 5
+    },
+    {
+     "name": "白衣",
+     "size": 5
+    },
+    {
+     "name": "清平",
+     "size": 5
+    },
+    {
+     "name": "盈溢",
+     "size": 5
+    },
+    {
+     "name": "淺薄",
+     "size": 5
+    },
+    {
+     "name": "淺薄",
+     "size": 5
+    },
+    {
+     "name": "淳",
+     "size": 5
+    },
+    {
+     "name": "監臨",
+     "size": 5
+    },
+    {
+     "name": "盭",
+     "size": 5
+    },
+    {
+     "name": "盱",
+     "size": 5
+    },
+    {
+     "name": "相與",
+     "size": 5
+    },
+    {
+     "name": "真",
+     "size": 5
+    },
+    {
+     "name": "真",
+     "size": 5
+    },
+    {
+     "name": "浹洽",
+     "size": 5
+    },
+    {
+     "name": "浹",
+     "size": 5
+    },
+    {
+     "name": "浸潤",
+     "size": 5
+    },
+    {
+     "name": "流連",
+     "size": 5
+    },
+    {
+     "name": "流連",
+     "size": 5
+    },
+    {
+     "name": "洞門",
+     "size": 5
+    },
+    {
+     "name": "洞戶",
+     "size": 5
+    },
+    {
+     "name": "泥塗",
+     "size": 5
+    },
+    {
+     "name": "治",
+     "size": 5
+    },
+    {
+     "name": "治",
+     "size": 5
+    },
+    {
+     "name": "沉滯",
+     "size": 5
+    },
+    {
+     "name": "破鏡",
+     "size": 5
+    },
+    {
+     "name": "沉抑",
+     "size": 5
+    },
+    {
+     "name": "水性",
+     "size": 5
+    },
+    {
+     "name": "毳",
+     "size": 5
+    },
+    {
+     "name": "比年",
+     "size": 5
+    },
+    {
+     "name": "比年",
+     "size": 5
+    },
+    {
+     "name": "祭酒",
+     "size": 5
+    },
+    {
+     "name": "租",
+     "size": 5
+    },
+    {
+     "name": "正本",
+     "size": 5
+    },
+    {
+     "name": "歌",
+     "size": 5
+    },
+    {
+     "name": "歌",
+     "size": 5
+    },
+    {
+     "name": "權衡",
+     "size": 5
+    },
+    {
+     "name": "櫝",
+     "size": 5
+    },
+    {
+     "name": "櫂",
+     "size": 5
+    },
+    {
+     "name": "究",
+     "size": 5
+    },
+    {
+     "name": "檻",
+     "size": 5
+    },
+    {
+     "name": "突出",
+     "size": 5
+    },
+    {
+     "name": "窈窕",
+     "size": 5
+    },
+    {
+     "name": "機密",
+     "size": 5
+    },
+    {
+     "name": "窘",
+     "size": 5
+    },
+    {
+     "name": "榷",
+     "size": 5
+    },
+    {
+     "name": "童",
+     "size": 5
+    },
+    {
+     "name": "械",
+     "size": 5
+    },
+    {
+     "name": "符",
+     "size": 5
+    },
+    {
+     "name": "筆墨",
+     "size": 5
+    },
+    {
+     "name": "柙",
+     "size": 5
+    },
+    {
+     "name": "筭",
+     "size": 5
+    },
+    {
+     "name": "枯",
+     "size": 5
+    },
+    {
+     "name": "析",
+     "size": 5
+    },
+    {
+     "name": "松喬",
+     "size": 5
+    },
+    {
+     "name": "籌算",
+     "size": 5
+    },
+    {
+     "name": "籍籍",
+     "size": 5
+    },
+    {
+     "name": "籍籍",
+     "size": 5
+    },
+    {
+     "name": "籍籍",
+     "size": 5
+    },
+    {
+     "name": "朱衣",
+     "size": 5
+    },
+    {
+     "name": "末路",
+     "size": 5
+    },
+    {
+     "name": "精神",
+     "size": 5
+    },
+    {
+     "name": "朝廷",
+     "size": 5
+    },
+    {
+     "name": "望風",
+     "size": 5
+    },
+    {
+     "name": "朘",
+     "size": 5
+    },
+    {
+     "name": "有道",
+     "size": 5
+    },
+    {
+     "name": "曼",
+     "size": 5
+    },
+    {
+     "name": "曼",
+     "size": 5
+    },
+    {
+     "name": "紛綸",
+     "size": 5
+    },
+    {
+     "name": "書案",
+     "size": 5
+    },
+    {
+     "name": "細人",
+     "size": 5
+    },
+    {
+     "name": "紱",
+     "size": 5
+    },
+    {
+     "name": "時務",
+     "size": 5
+    },
+    {
+     "name": "時務",
+     "size": 5
+    },
+    {
+     "name": "絣",
+     "size": 5
+    },
+    {
+     "name": "給",
+     "size": 5
+    },
+    {
+     "name": "絹",
+     "size": 5
+    },
+    {
+     "name": "昌",
+     "size": 5
+    },
+    {
+     "name": "旨",
+     "size": 5
+    },
+    {
+     "name": "族姓",
+     "size": 5
+    },
+    {
+     "name": "網羅",
+     "size": 5
+    },
+    {
+     "name": "綸",
+     "size": 5
+    },
+    {
+     "name": "旄頭",
+     "size": 5
+    },
+    {
+     "name": "旄頭",
+     "size": 5
+    },
+    {
+     "name": "旄頭",
+     "size": 5
+    },
+    {
+     "name": "旄頭",
+     "size": 5
+    },
+    {
+     "name": "斂手",
+     "size": 5
+    },
+    {
+     "name": "敏",
+     "size": 5
+    },
+    {
+     "name": "攀",
+     "size": 5
+    },
+    {
+     "name": "繫",
+     "size": 5
+    },
+    {
+     "name": "繭栗",
+     "size": 5
+    },
+    {
+     "name": "繻",
+     "size": 5
+    },
+    {
+     "name": "撝",
+     "size": 5
+    },
+    {
+     "name": "搴",
+     "size": 5
+    },
+    {
+     "name": "搉",
+     "size": 5
+    },
+    {
+     "name": "搉",
+     "size": 5
+    },
+    {
+     "name": "翊",
+     "size": 5
+    },
+    {
+     "name": "翊",
+     "size": 5
+    },
+    {
+     "name": "捷",
+     "size": 5
+    },
+    {
+     "name": "拾遺",
+     "size": 5
+    },
+    {
+     "name": "考功",
+     "size": 5
+    },
+    {
+     "name": "耗",
+     "size": 5
+    },
+    {
+     "name": "扑",
+     "size": 5
+    },
+    {
+     "name": "聿",
+     "size": 5
+    },
+    {
+     "name": "肥",
+     "size": 5
+    },
+    {
+     "name": "胙",
+     "size": 5
+    },
+    {
+     "name": "憺",
+     "size": 5
+    },
+    {
+     "name": "愧",
+     "size": 5
+    },
+    {
+     "name": "感應",
+     "size": 5
+    },
+    {
+     "name": "感應",
+     "size": 5
+    },
+    {
+     "name": "恐",
+     "size": 5
+    },
+    {
+     "name": "恇",
+     "size": 5
+    },
+    {
+     "name": "恂恂",
+     "size": 5
+    },
+    {
+     "name": "恂恂",
+     "size": 5
+    },
+    {
+     "name": "舉火",
+     "size": 5
+    },
+    {
+     "name": "良人",
+     "size": 5
+    },
+    {
+     "name": "忘",
+     "size": 5
+    },
+    {
+     "name": "忘",
+     "size": 5
+    },
+    {
+     "name": "心術",
+     "size": 5
+    },
+    {
+     "name": "徼",
+     "size": 5
+    },
+    {
+     "name": "苞苴",
+     "size": 5
+    },
+    {
+     "name": "後庭",
+     "size": 5
+    },
+    {
+     "name": "茲",
+     "size": 5
+    },
+    {
+     "name": "征",
+     "size": 5
+    },
+    {
+     "name": "彤管",
+     "size": 5
+    },
+    {
+     "name": "強梁",
+     "size": 5
+    },
+    {
+     "name": "廱",
+     "size": 5
+    },
+    {
+     "name": "廱",
+     "size": 5
+    },
+    {
+     "name": "幽深",
+     "size": 5
+    },
+    {
+     "name": "常人",
+     "size": 5
+    },
+    {
+     "name": "師資",
+     "size": 5
+    },
+    {
+     "name": "師範",
+     "size": 5
+    },
+    {
+     "name": "師傅",
+     "size": 5
+    },
+    {
+     "name": "虓",
+     "size": 5
+    },
+    {
+     "name": "虔",
+     "size": 5
+    },
+    {
+     "name": "希",
+     "size": 5
+    },
+    {
+     "name": "蚩",
+     "size": 5
+    },
+    {
+     "name": "巨",
+     "size": 5
+    },
+    {
+     "name": "峻",
+     "size": 5
+    },
+    {
+     "name": "行文",
+     "size": 5
+    },
+    {
+     "name": "行水",
+     "size": 5
+    },
+    {
+     "name": "衝突",
+     "size": 5
+    },
+    {
+     "name": "衪",
+     "size": 5
+    },
+    {
+     "name": "小戶",
+     "size": 5
+    },
+    {
+     "name": "袀",
+     "size": 5
+    },
+    {
+     "name": "小家",
+     "size": 5
+    },
+    {
+     "name": "小官",
+     "size": 5
+    },
+    {
+     "name": "尊重",
+     "size": 5
+    },
+    {
+     "name": "襜",
+     "size": 5
+    },
+    {
+     "name": "寓",
+     "size": 5
+    },
+    {
+     "name": "宛",
+     "size": 5
+    },
+    {
+     "name": "解釋",
+     "size": 5
+    },
+    {
+     "name": "託",
+     "size": 5
+    },
+    {
+     "name": "孥",
+     "size": 5
+    },
+    {
+     "name": "詆",
+     "size": 5
+    },
+    {
+     "name": "詆",
+     "size": 5
+    },
+    {
+     "name": "娠",
+     "size": 5
+    },
+    {
+     "name": "姦",
+     "size": 5
+    },
+    {
+     "name": "誶",
+     "size": 5
+    },
+    {
+     "name": "誶",
+     "size": 5
+    },
+    {
+     "name": "始終",
+     "size": 5
+    },
+    {
+     "name": "諄諄",
+     "size": 5
+    },
+    {
+     "name": "請命",
+     "size": 5
+    },
+    {
+     "name": "請罪",
+     "size": 5
+    },
+    {
+     "name": "諜",
+     "size": 5
+    },
+    {
+     "name": "女德",
+     "size": 5
+    },
+    {
+     "name": "女主",
+     "size": 5
+    },
+    {
+     "name": "奭",
+     "size": 5
+    },
+    {
+     "name": "諸生",
+     "size": 5
+    },
+    {
+     "name": "奐",
+     "size": 5
+    },
+    {
+     "name": "失容",
+     "size": 5
+    },
+    {
+     "name": "譬",
+     "size": 5
+    },
+    {
+     "name": "譬",
+     "size": 5
+    },
+    {
+     "name": "天祿",
+     "size": 5
+    },
+    {
+     "name": "天官",
+     "size": 5
+    },
+    {
+     "name": "天",
+     "size": 5
+    },
+    {
+     "name": "大綱",
+     "size": 5
+    },
+    {
+     "name": "豢",
+     "size": 5
+    },
+    {
+     "name": "大分",
+     "size": 5
+    },
+    {
+     "name": "大",
+     "size": 5
+    },
+    {
+     "name": "夙",
+     "size": 5
+    },
+    {
+     "name": "外官",
+     "size": 5
+    },
+    {
+     "name": "外官",
+     "size": 5
+    },
+    {
+     "name": "賓",
+     "size": 5
+    },
+    {
+     "name": "壇場",
+     "size": 5
+    },
+    {
+     "name": "墮落",
+     "size": 5
+    },
+    {
+     "name": "墊",
+     "size": 5
+    },
+    {
+     "name": "贅",
+     "size": 5
+    },
+    {
+     "name": "贅",
+     "size": 5
+    },
+    {
+     "name": "塞責",
+     "size": 5
+    },
+    {
+     "name": "均",
+     "size": 5
+    },
+    {
+     "name": "地分",
+     "size": 5
+    },
+    {
+     "name": "土膏",
+     "size": 5
+    },
+    {
+     "name": "跱",
+     "size": 5
+    },
+    {
+     "name": "跱",
+     "size": 5
+    },
+    {
+     "name": "土",
+     "size": 5
+    },
+    {
+     "name": "圖書",
+     "size": 5
+    },
+    {
+     "name": "圖書",
+     "size": 5
+    },
+    {
+     "name": "圖書",
+     "size": 5
+    },
+    {
+     "name": "國師",
+     "size": 5
+    },
+    {
+     "name": "國師",
+     "size": 5
+    },
+    {
+     "name": "圄",
+     "size": 5
+    },
+    {
+     "name": "四海為家",
+     "size": 5
+    },
+    {
+     "name": "四塞",
+     "size": 5
+    },
+    {
+     "name": "四七",
+     "size": 5
+    },
+    {
+     "name": "囊橐",
+     "size": 5
+    },
+    {
+     "name": "器",
+     "size": 5
+    },
+    {
+     "name": "問訊",
+     "size": 5
+    },
+    {
+     "name": "商",
+     "size": 5
+    },
+    {
+     "name": "咢",
+     "size": 5
+    },
+    {
+     "name": "輕薄",
+     "size": 5
+    },
+    {
+     "name": "吝",
+     "size": 5
+    },
+    {
+     "name": "同軌",
+     "size": 5
+    },
+    {
+     "name": "同科",
+     "size": 5
+    },
+    {
+     "name": "迸",
+     "size": 5
+    },
+    {
+     "name": "逐",
+     "size": 5
+    },
+    {
+     "name": "口氣",
+     "size": 5
+    },
+    {
+     "name": "協和",
+     "size": 5
+    },
+    {
+     "name": "卑下",
+     "size": 5
+    },
+    {
+     "name": "卑下",
+     "size": 5
+    },
+    {
+     "name": "道地",
+     "size": 5
+    },
+    {
+     "name": "遜",
+     "size": 5
+    },
+    {
+     "name": "遭",
+     "size": 5
+    },
+    {
+     "name": "割地",
+     "size": 5
+    },
+    {
+     "name": "割地",
+     "size": 5
+    },
+    {
+     "name": "部",
+     "size": 5
+    },
+    {
+     "name": "都",
+     "size": 5
+    },
+    {
+     "name": "剖",
+     "size": 5
+    },
+    {
+     "name": "鄙人",
+     "size": 5
+    },
+    {
+     "name": "鄙陋",
+     "size": 5
+    },
+    {
+     "name": "利器",
+     "size": 5
+    },
+    {
+     "name": "分解",
+     "size": 5
+    },
+    {
+     "name": "分別",
+     "size": 5
+    },
+    {
+     "name": "凶器",
+     "size": 5
+    },
+    {
+     "name": "凌遲",
+     "size": 5
+    },
+    {
+     "name": "冰泮",
+     "size": 5
+    },
+    {
+     "name": "冥",
+     "size": 5
+    },
+    {
+     "name": "冥",
+     "size": 5
+    },
+    {
+     "name": "金華",
+     "size": 5
+    },
+    {
+     "name": "鈇",
+     "size": 5
+    },
+    {
+     "name": "六體",
+     "size": 5
+    },
+    {
+     "name": "六體",
+     "size": 5
+    },
+    {
+     "name": "六體",
+     "size": 5
+    },
+    {
+     "name": "六甲",
+     "size": 5
+    },
+    {
+     "name": "銀黃",
+     "size": 5
+    },
+    {
+     "name": "全人",
+     "size": 5
+    },
+    {
+     "name": "內親",
+     "size": 5
+    },
+    {
+     "name": "鋤",
+     "size": 5
+    },
+    {
+     "name": "兒",
+     "size": 5
+    },
+    {
+     "name": "光大",
+     "size": 5
+    },
+    {
+     "name": "錮",
+     "size": 5
+    },
+    {
+     "name": "錮",
+     "size": 5
+    },
+    {
+     "name": "錮",
+     "size": 5
+    },
+    {
+     "name": "鍼",
+     "size": 5
+    },
+    {
+     "name": "鍼",
+     "size": 5
+    },
+    {
+     "name": "元元",
+     "size": 5
+    },
+    {
+     "name": "儳",
+     "size": 5
+    },
+    {
+     "name": "儈",
+     "size": 5
+    },
+    {
+     "name": "儈",
+     "size": 5
+    },
+    {
+     "name": "鑪",
+     "size": 5
+    },
+    {
+     "name": "傭",
+     "size": 5
+    },
+    {
+     "name": "傭",
+     "size": 5
+    },
+    {
+     "name": "開心",
+     "size": 5
+    },
+    {
+     "name": "停",
+     "size": 5
+    },
+    {
+     "name": "倒景",
+     "size": 5
+    },
+    {
+     "name": "閣道",
+     "size": 5
+    },
+    {
+     "name": "閤",
+     "size": 5
+    },
+    {
+     "name": "閱",
+     "size": 5
+    },
+    {
+     "name": "閼",
+     "size": 5
+    },
+    {
+     "name": "闓",
+     "size": 5
+    },
+    {
+     "name": "闓",
+     "size": 5
+    },
+    {
+     "name": "阪",
+     "size": 5
+    },
+    {
+     "name": "作成",
+     "size": 5
+    },
+    {
+     "name": "除",
+     "size": 5
+    },
+    {
+     "name": "除",
+     "size": 5
+    },
+    {
+     "name": "隅",
+     "size": 5
+    },
+    {
+     "name": "介冑",
+     "size": 5
+    },
+    {
+     "name": "介介",
+     "size": 5
+    },
+    {
+     "name": "隔",
+     "size": 5
+    },
+    {
+     "name": "隔",
+     "size": 5
+    },
+    {
+     "name": "仄",
+     "size": 5
+    },
+    {
+     "name": "仄",
+     "size": 5
+    },
+    {
+     "name": "交易",
+     "size": 5
+    },
+    {
+     "name": "隤",
+     "size": 5
+    },
+    {
+     "name": "交接",
+     "size": 5
+    },
+    {
+     "name": "隨",
+     "size": 5
+    },
+    {
+     "name": "亡人",
+     "size": 5
+    },
+    {
+     "name": "雍",
+     "size": 5
+    },
+    {
+     "name": "亂俗",
+     "size": 5
+    },
+    {
+     "name": "雲車",
+     "size": 5
+    },
+    {
+     "name": "乘",
+     "size": 5
+    },
+    {
+     "name": "霽",
+     "size": 5
+    },
+    {
+     "name": "中涓",
+     "size": 5
+    },
+    {
+     "name": "中宮",
+     "size": 5
+    },
+    {
+     "name": "面",
+     "size": 5
+    },
+    {
+     "name": "中堅",
+     "size": 5
+    },
+    {
+     "name": "中世",
+     "size": 5
+    },
+    {
+     "name": "頤",
+     "size": 5
+    },
+    {
+     "name": "風",
+     "size": 5
+    },
+    {
+     "name": "不快",
+     "size": 5
+    },
+    {
+     "name": "不平",
+     "size": 5
+    },
+    {
+     "name": "食",
+     "size": 5
+    },
+    {
+     "name": "飲",
+     "size": 5
+    },
+    {
+     "name": "飴",
+     "size": 5
+    },
+    {
+     "name": "不厭",
+     "size": 5
+    },
+    {
+     "name": "餔",
+     "size": 5
+    },
+    {
+     "name": "下方",
+     "size": 5
+    },
+    {
+     "name": "下意",
+     "size": 5
+    },
+    {
+     "name": "下意",
+     "size": 5
+    },
+    {
+     "name": "首尾",
+     "size": 5
+    },
+    {
+     "name": "馳騁",
+     "size": 5
+    },
+    {
+     "name": "上路",
+     "size": 5
+    },
+    {
+     "name": "上列",
+     "size": 5
+    },
+    {
+     "name": "駹",
+     "size": 5
+    },
+    {
+     "name": "三家",
+     "size": 5
+    },
+    {
+     "name": "驁",
+     "size": 5
+    },
+    {
+     "name": "一門",
+     "size": 5
+    },
+    {
+     "name": "一門",
+     "size": 5
+    },
+    {
+     "name": "髾",
+     "size": 5
+    },
+    {
+     "name": "髾",
+     "size": 5
+    },
+    {
+     "name": "鬯",
+     "size": 5
+    },
+    {
+     "name": "鬱",
+     "size": 5
+    },
+    {
+     "name": "一日",
+     "size": 5
+    },
+    {
+     "name": "一日",
+     "size": 5
+    },
+    {
+     "name": "一口",
+     "size": 5
+    },
+    {
+     "name": "齧",
+     "size": 5
+    },
+    {
+     "name": "契闊",
+     "size": 5
+    }
+   ]
+  },
+  {
+   "name": "0-5",
+   "children": []
+  }
+ ]
+}
