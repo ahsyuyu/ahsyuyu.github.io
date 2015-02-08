@@ -26,15 +26,15 @@
    "name": "3.5k-4k",
    "children": [
     {
-     "name": "初刻拍案驚奇",
+     "name": "初刻拍案驚奇．slappingTheTableInAmazement",
      "size": 3882
     },
     {
-     "name": "漢書",
+     "name": "漢書．historyOfTheFormerHan",
      "size": 3813
     },
     {
-     "name": "史記",
+     "name": "史記．recordsOfTheGrandHistorian",
      "size": 3726
     }
    ]
@@ -43,11 +43,11 @@
    "name": "3k-3.5k",
    "children": [
     {
-     "name": "後漢書",
+     "name": "後漢書．historyOfTheLaterHan",
      "size": 3447
     },
     {
-     "name": "文明小史",
+     "name": "文明小史．shortHistoryOfCivilization",
      "size": 3243
     }
    ]
@@ -56,7 +56,7 @@
    "name": "2.5k-3k",
    "children": [
     {
-     "name": "西遊記",
+     "name": "西遊記．journeyToTheWest ",
      "size": 2545
     }
    ]
@@ -65,19 +65,19 @@
    "name": "2k-2.5k",
    "children": [
     {
-     "name": "詩經",
+     "name": "詩經．classicOfPoetry",
      "size": 2385
     },
     {
-     "name": "水滸傳",
+     "name": "水滸傳．waterMargin",
      "size": 2371
     },
     {
-     "name": "左傳",
+     "name": "左傳．commentaryOfZuo",
      "size": 2160
     },
     {
-     "name": "晉書",
+     "name": "晉書．bookOfJin",
      "size": 2015
     }
    ]
