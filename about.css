@@ -1,0 +1,72 @@
+ body{
+  margin: 5%;
+  background-color: #ffd633;
+  text-align: center;
+}
+
+.topper{
+  height: 100%;
+}
+
+
+.profilePic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px; 
+  -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  animation-name: imgIn;
+  animation-duration: 1s;
+
+}
+
+.resume{
+  color: white;
+  font-family: georgia;
+}
+
+.fadeIn{
+  opacity: 0;
+  left:0;
+  -webkit-animation-name: textIn; /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  -webkit-animation-delay: 1s;
+  -webkit-animation-fill-mode:forwards;
+
+  animation-name: textIn;
+  animation-duration: 1s;
+  animation-delay: 1s;
+  animation-fill-mode:forwards;
+
+}
+
+.resumeMenu{
+  margin:10%;
+  font-size: 18px;
+}
+
+.resumeSec{
+  margin-top: 200px;
+}
+
+
+@-webkit-keyframes imgIn {
+    0%   {transform:scale(0);}
+}
+
+@-webkit-keyframes textIn {
+    from   {opacity: 0;}
+    to     {opacity: 1;}
+}
+
+
+a{
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}

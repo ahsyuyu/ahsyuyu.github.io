@@ -1,0 +1,46 @@
+body{
+	margin-top: 10%;
+	text-align: center;
+	background-color: #ffd633;
+	/*background: url("banner_blur_cut.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;*/
+}
+
+.title{
+	color: white;
+	font-family:Sofia;
+	font-size: 64px;
+	line-height: 72px;
+	letter-spacing: 2px;　
+}
+
+.subtitle{
+	margin-top: 20px;
+	margin-right: 20%;
+	margin-left: 20%;
+	color: white;
+	font-size: 18px;
+	font-family: georgia;
+	line-height: 26px;
+	letter-spacing: 1px;
+}
+
+.fadeIn{
+  opacity: 0;
+  -webkit-animation-name: textIn; /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  -webkit-animation-delay: 0.5s;
+  -webkit-animation-fill-mode:forwards;
+
+  animation-name: textIn;
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode:forwards;
+
+}
+
+@-webkit-keyframes textIn {
+    from   {transform:scale(0);opacity: 0;}
+    to     {opacity: 1;}
+}
