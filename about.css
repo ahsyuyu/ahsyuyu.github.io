@@ -22,12 +22,11 @@
 
 .resume{
   color: white;
-  font-family: georgia;
+  font-family: Raleway;
 }
 
 .fadeIn{
   opacity: 0;
-  left:0;
   -webkit-animation-name: textIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
   -webkit-animation-delay: 1s;
@@ -43,6 +42,7 @@
 .resumeMenu{
   margin:10%;
   font-size: 18px;
+  font-family: Raleway;
 }
 
 .resumeSec{
@@ -51,12 +51,12 @@
 
 
 @-webkit-keyframes imgIn {
-    0%   {transform:scale(0);}
+    0%   {-webkit-transform:scale(0);}
 }
 
 @-webkit-keyframes textIn {
-    from   {opacity: 0;}
-    to     {opacity: 1;}
+    from   {-webkit-transform:scale(0);opacity: 0;}
+    to     {-webkit-transform:scale(1);opacity: 1;}
 }
 
 
