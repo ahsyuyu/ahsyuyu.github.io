@@ -38,7 +38,7 @@ img {
 }
 
 .smu{
-	transform:scale(0);
+	-webkit-transform:scale(0);
 	-webkit-transition: all 0.5s; 
     /* For Safari 3.1 to 6.0 */
   transition: all 0.5s;
@@ -56,7 +56,7 @@ img {
 }
 
 .ntnu{
-	transform:scale(0);
+	-webkit-transform:scale(0);
 	-webkit-transition: all 0.5s; 
     /* For Safari 3.1 to 6.0 */
   transition: all 0.5s;
