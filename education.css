@@ -2,7 +2,6 @@ body{
 	/*margin-top: 10%;*/
 	text-align: center;
 	background-color: #ffd633;
-	margin-bottom: 20%;
 	color: white;
 	font-family: Raleway;
 	/*background: url("banner_blur_cut.jpeg");
@@ -18,7 +17,7 @@ img {
 
 .schoolList{
 	margin: 15%;
-	height: 100%;
+	height: 50%;
 }
 
 .school{
@@ -26,28 +25,35 @@ img {
 }
 
 .scu{
+  -moz-transition: all 0.5s; 
 	-webkit-transition: all 0.5s; 
-    /* For Safari 3.1 to 6.0 */
   transition: all 0.5s;
 
   -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  
   animation-name: imgIn;
   animation-duration: 1s;
+  
+  -moz-animation-name: imgIn;
+  -moz-animation-duration: 1s;
 
 }
 
-.smu{
+.ntnu{
 	-webkit-transform:scale(0);
 	-webkit-transition: all 0.5s; 
-    /* For Safari 3.1 to 6.0 */
+
+  -moz-transform:scale(0);
+  -moz-transition: all 0.5s; 
+
   transition: all 0.5s;
 
   -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
   -webkit-animation-delay:0.5s;
   -webkit-animation-fill-mode:forwards;
-
+ 
   animation-name: imgIn;
   animation-duration: 1s;
   animation-delay: 0.5s;
@@ -55,9 +61,11 @@ img {
 
 }
 
-.ntnu{
+.smu{
 	-webkit-transform:scale(0);
 	-webkit-transition: all 0.5s; 
+	-moz-transform:scale(0);
+	-moz-transition: all 0.5s; 
     /* For Safari 3.1 to 6.0 */
   transition: all 0.5s;
 
@@ -65,12 +73,19 @@ img {
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
   -webkit-animation-delay:1s;
   -webkit-animation-fill-mode:forwards;
+
   animation-name: imgIn;
   animation-duration: 1s;
   animation-delay: 1s;
   animation-fill-mode:forwards;
 
+  -moz-animation-name: imgIn;
+  -moz-animation-duration: 1s;
+  -moz-animation-delay: 1s;
+  -moz-animation-fill-mode:forwards;
+
 }
+
 
 img:hover{
 	opacity: 0.5;
@@ -81,6 +96,15 @@ img:hover{
     to   {-webkit-transform:scale(1);}
 }
 
+@-moz-keyframes imgIn {
+    from   {-moz-transform:scale(0.0);}
+    to   {-moz-transform:scale(1.0);}
+}
+
 a{
+	color: white;
 	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 }

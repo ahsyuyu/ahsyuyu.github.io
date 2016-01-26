@@ -8,21 +8,31 @@
 img{
 	margin: 30px;
 	-webkit-transition: all 0.5s; 
-    /* For Safari 3.1 to 6.0 */
+  -moz-transition: all 0.5s;
   transition: all 0.5s;
 
   -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+
   animation-name: imgIn;
   animation-duration: 1s;
+
+  -moz-animation-name: imgIn;
+  -moz-animation-duration: 1s;
 }
 
 img:hover{
-	-webkit-transform:scale(1.3);
+	/*-webkit-transform:scale(1.3);*/
+  opacity: 0.5;
 }
 
 @-webkit-keyframes imgIn {
     0%   {-webkit-transform:scale(0);}
+}
+
+@-moz-keyframes imgIn {
+    from   {-moz-transform:scale(0.0);}
+    to   {-moz-transform:scale(1.0);}
 }
 
 a{

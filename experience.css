@@ -2,10 +2,65 @@ body{
 	/*margin-top: 10%;*/
 	text-align: center;
 	background-color: #ffd633;
+	margin-top: 20px;
 	margin-bottom: 20%;
 	color: white;
 	font-family: Raleway;
 	/*background: url("banner_blur_cut.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;*/
+}
+
+.experienceList{
+	margin: 15%;
+	height: 100%;
+}
+
+img{
+	margin: 30px;
+	width: 75px;
+	height: 80px;
+}
+
+.bulletin{
+	position: relative;
+	width: 60%;
+	text-align: left;
+}
+
+.ta{
+	-webkit-transition: all 0.5s; 
+  transition: all 0.5s;
+  -moz-transition: all 0.5s; 
+
+  -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
+  -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  animation-name: imgIn;
+  animation-duration: 1s;
+
+  -moz-animation-name: imgIn;
+  -moz-animation-duration: 1s;
+
+}
+
+img:hover{
+	opacity: 0.5;
+}
+
+@-webkit-keyframes imgIn {
+    from   {-webkit-transform:scale(0);}
+    to   {-webkit-transform:scale(1);}
+}
+
+@-moz-keyframes imgIn {
+    from   {-moz-transform:scale(0.0);}
+    to   {-moz-transform:scale(1.0);}
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 }

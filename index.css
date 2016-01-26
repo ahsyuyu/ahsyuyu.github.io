@@ -6,7 +6,7 @@ body{
 .menu{
 
 	width: 100%;
-	height: 25%;
+	height: 20%;
 	text-align: center;
 	display: inline-block;
 }
@@ -23,21 +23,10 @@ body{
 
 .content{
 	width: 100%;
-	height: 75%;
+	height: 80%;
 	text-align: center;
 	position: relative;
 	margin-bottom: 0px
-}
-
-
-.copyright{
-	color: #cccccc;
-	font-size: 12px;
-	position: absolute;
-	text-align: center;
-	font-family:georgia;
-	letter-spacing: 2px;
-	height:5%;　
 }
 
 .banner{

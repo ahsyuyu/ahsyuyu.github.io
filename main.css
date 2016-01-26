@@ -26,16 +26,30 @@ body{
 	letter-spacing: 1px;
 }
 
+.footer{
+	color: white;
+	font-family: Raleway;
+	font-size: 14px;
+	bottom: 4px;
+	width: 99%;
+	position: absolute;
+}
+
 .fadeIn{
   opacity: 0;
   -webkit-animation-name: textIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
-  -webkit-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.2s;
   -webkit-animation-fill-mode:forwards;
+
+  -moz-animation-name: textIn;
+  -moz-animation-duration: 1s;
+  -moz-animation-delay: 0.2s;
+  -moz-animation-fill-mode:forwards;
 
   animation-name: textIn;
   animation-duration: 1s;
-  animation-delay: 0.5s;
+  animation-delay: 0.2s;
   animation-fill-mode:forwards;
 
 }
@@ -43,4 +57,8 @@ body{
 @-webkit-keyframes textIn {
     from   {-webkit-transform:scale(0);opacity: 0;}
     to     {-webkit-transform:scale(1);opacity: 1;}
+}
+@-moz-keyframes textIn {
+    from   {-moz-transform:scale(0.0);opacity: 0;}
+    to     {-moz-transform:scale(1.0);opacity: 1;}
 }
