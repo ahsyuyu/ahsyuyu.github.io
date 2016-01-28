@@ -16,17 +16,33 @@ body{
 	height: 100%;
 }
 
+.experience{
+	margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+}
+
+li{
+	text-align: left;
+	line-height: 28px;
+}
+
+.title{
+  font-size: 20px;
+  text-decoration: bold;
+}
+
 img{
 	margin: 30px;
 	width: 75px;
 	height: 80px;
 }
 
-.bulletin{
+/*.bulletin{
 	position: relative;
 	width: 60%;
 	text-align: left;
-}
+}*/
 
 .ta{
 	-webkit-transition: all 0.5s; 
