@@ -18,7 +18,7 @@ body{
   line-height: normal; 
 	font-family:Raleway;
 	letter-spacing: 2px;　
-	color: #a6a6a6;	
+	color: #999999;	
 }
 
 .content{
@@ -33,7 +33,7 @@ body{
 a{
 	margin-right: 10px;
 	margin-left: 10px;
-	color: #a6a6a6;
+	color: #999999;
 	text-decoration: none;
 	-webkit-transition:all 0.5s;
 	transition:all 0.5s;
