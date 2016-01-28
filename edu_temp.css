@@ -53,42 +53,52 @@ li{
 
 .ntnu{
 
-
+  -webkit-transform:scale(0);
   -webkit-transition: all 0.5s; 
   -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  -webkit-animation-delay:0.5s;
+  -webkit-animation-fill-mode:forwards;
 
-
-
-
+  transform:scale(0);
   transition: all 0.5s;
   animation-name: imgIn;
   animation-duration: 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode:forwards;
 
-
-
+  -moz-transform:scale(0);
   -moz-transition: all 0.5s; 
   -moz-animation-name: imgIn;
   -moz-animation-duration: 1s;
-
-
+  -moz-animation-delay: 0.5s;
+  -moz-animation-fill-mode:forwards;
 
 }
 
 .smu{
-
+	-webkit-transform:scale(0);
 	-webkit-transition: all 0.5s; 
+	-moz-transform:scale(0);
+	-moz-transition: all 0.5s; 
+    /* For Safari 3.1 to 6.0 */
+  transform:scale(0);
+  transition: all 0.5s;
+
   -webkit-animation-name: imgIn; /* Chrome, Safari, Opera */
   -webkit-animation-duration: 1s; /* Chrome, Safari, Opera */
+  -webkit-animation-delay:1s;
+  -webkit-animation-fill-mode:forwards;
 
-  transition: all 0.5s;
   animation-name: imgIn;
   animation-duration: 1s;
+  animation-delay: 1s;
+  animation-fill-mode:forwards;
 
-  -moz-transition: all 0.5s; 
   -moz-animation-name: imgIn;
   -moz-animation-duration: 1s;
-
+  -moz-animation-delay: 1s;
+  -moz-animation-fill-mode:forwards;
 
 }
 
