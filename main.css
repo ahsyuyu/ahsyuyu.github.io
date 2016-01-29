@@ -1,10 +1,25 @@
 body{
-	margin-top: 10%;
+	margin-top: 5%;
 	text-align: center;
-	background-color: #ffd633;
-	/*background: url("banner_blur_cut.jpeg");
+	/*background-color: #ffd633;
+	background: url("banner_blur_cut.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;*/
+}
+
+.welcome{
+	position: relative;
+	width: 100%;
+}
+
+.intro{
+	position: absolute;
+	width: 100%;
+	top:80px;
+}
+
+.banner{
+	width: 80%;
 }
 
 .title{
@@ -19,7 +34,7 @@ body{
 	margin-top: 20px;
 	margin-right: 20%;
 	margin-left: 20%;
-	color: white;
+	color:  #e6e6e6;
 	font-size: 18px;
 	font-family: Raleway;
 	line-height: 26px;

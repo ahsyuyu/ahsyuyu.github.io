@@ -6,13 +6,22 @@ body{
 .menu{
 
 	width: 100%;
-	height: 20%;
+	height: 25%;
 	text-align: center;
 	display: inline-block;
 }
 
+.title{
+	margin-top: 20px;
+	color: black;
+	font-family:Sofia;
+	font-size: 42px;
+	line-height: 72px;
+	letter-spacing: 2px;　
+}
+
 .menuItems{
-	margin: 5%;
+	margin: 10px;
   display: inline-block;
   vertical-align: middle;
   line-height: normal; 
@@ -23,7 +32,7 @@ body{
 
 .content{
 	width: 100%;
-	height: 80%;
+	height: 75%;
 	text-align: center;
 	position: relative;
 	margin-bottom: 0px

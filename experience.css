@@ -1,10 +1,9 @@
 body{
 	/*margin-top: 10%;*/
 	text-align: center;
-	background-color: #ffd633;
-	margin-top: 20px;
+/*	background-color: #ffd633;
+*/
 	margin-bottom: 20%;
-	color: white;
 	font-family: Raleway;
 	/*background: url("banner_blur_cut.jpeg");
 	background-repeat: no-repeat;
@@ -12,8 +11,8 @@ body{
 }
 
 .experienceList{
-	margin: 15%;
-	height: 100%;
+	margin: 10%;
+	height: 110%;
 }
 
 .experience{
@@ -74,7 +73,6 @@ img:hover{
 }
 
 a{
-	color: white;
 	text-decoration: none;
 }
 a:hover{

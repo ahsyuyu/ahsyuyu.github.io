@@ -1,8 +1,13 @@
  body{
  	margin: 5%;
  	text-align: center;
-  background-color: #ffd633;
+/*  background-color: #ffd633;
+*/
+}
 
+.info{
+  margin: 10%;
+  height: 60%;
 }
 
 img{
